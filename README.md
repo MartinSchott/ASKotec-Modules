@@ -12,7 +12,18 @@
 
 ![](assets/prototyping-2.jpg)
 
-
+## ToDo
+- [x] Design a Concept
+- [x] Upload Grid Base Plate for prototyping
+- [x] Build first Protoype for Repair
+- [ ] Build First Prototype for Radio
+- [ ] Build first Prototype for Multimedia
+- [ ] Build first Prototype for Solar
+- [ ] Upload Spreadsheet for available BOMs
+- [ ] Provide Meta Instructions on all Training Kits
+- [ ] Double Check Folder/File Structure
+- [ ] Double Check CAD Versioning vs. Repo Versioning
+- [ ] more to come
 
 
 
