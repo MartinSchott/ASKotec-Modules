@@ -89,6 +89,8 @@
 > Extra Grid: 6x8 (x32mm) with 16mm Offset
 >
 > 20mm Corner Radius
+>
+> [SVG](CAD/Grid-Base-Plate/Base-16grid-9x6+8x6+1+16mm_R20.svg), [DXF](CAD/Grid-Base-Plate/Base-16grid-9x6+8x6+1+16mm_R20.dxf) for manufacturing are available and for editing [FreeCAD](CAD/Grid-Base-Plate/32-grid-Base-Plate+16mm.FCStd)
 
 ![](CAD/Grid-Base-Plate/Base-16grid-9x6+8x6+1+16mm_R20.svg)
 
@@ -103,7 +105,7 @@
 >
 > **Only for Reference** (will not fit perfectly in the case)
 
-![](CAD/Grid-Base-Plate/Base-32grid-9x6_R20.svg)
+![](CAD/Grid-Base-Plate/Archive/Base-32grid-9x6_R20.svg)
 
 
 ---
