@@ -70,42 +70,15 @@
 >
 > Technical Specs of the Grid-Base-Plate see Drawing below:
 
-![](CAD/Grid-Base-Plate/TechnicalDrawing+16mm.svg)
+![](CAD/Grid-Base-Plate/TechnicalDrawing+16mm-white.svg)
 
 - Reference Design will have 32mm+16mm Double Grid and R20 Corners currently
 - Older variations can be found via [Archive](Archive/)
-- FreeCAD Files and Exports in [PDF](CAD/Grid-Base-Plate/TechnicalDrawing+16mm.pdf) for reference, and [SVG](CAD/Grid-Base-Plate/Base-16grid-9x6+8x6+1+16mm_R20.svg), [DXF](CAD/Grid-Base-Plate/Base-16grid-9x6+8x6+1+16mm_R20.dxf) for manufacturing are available for Adoption/Scaling/Lasercutting etc.
+- [FreeCAD](CAD/Grid-Base-Plate/32-grid-Base-Plate+16mm.FCStd) Source Files and Exports in [PDF](CAD/Grid-Base-Plate/TechnicalDrawing+16mm.pdf) for reference, and [SVG](CAD/Grid-Base-Plate/Base-16grid-9x6+8x6+1+16mm_R20.svg), [DXF](CAD/Grid-Base-Plate/Base-16grid-9x6+8x6+1+16mm_R20.dxf) for manufacturing are available for Adoption/Scaling/Lasercutting etc.
 - > Note: If you make adjustments and play around in the parameters (parametric Spreadsheed reference), in some cases you need to fix the TechDraw measurements
 
 
----
 
-### **Optimized Version 32mm x 32mm + 16mm Offset**
-
-> 5mm Boring Holes  
->
-> Base Grid: 6x9 (x32mm) +16mm = 208x288mm (close to DIN A4)
->
-> Extra Grid: 6x8 (x32mm) with 16mm Offset
->
-> 20mm Corner Radius
->
-> [SVG](CAD/Grid-Base-Plate/Base-16grid-9x6+8x6+1+16mm_R20.svg), [DXF](CAD/Grid-Base-Plate/Base-16grid-9x6+8x6+1+16mm_R20.dxf) for manufacturing are available and for editing [FreeCAD](CAD/Grid-Base-Plate/32-grid-Base-Plate+16mm.FCStd)
-
-![](CAD/Grid-Base-Plate/Base-16grid-9x6+8x6+1+16mm_R20.svg)
-
-
-### [old] **Original Version 32mm x 32mm**
-
-> 5mm Boring Holes  
->
-> Base Grid: 6x9 (x32mm) = 192x288mm 
->
-> 20mm Corner Radius
->
-> **Only for Reference** (will not fit perfectly in the case)
-
-![](CAD/Grid-Base-Plate/Archive/Base-32grid-9x6_R20.svg)
 
 
 ---
