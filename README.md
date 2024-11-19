@@ -1,6 +1,6 @@
-# #ASKotec inspired mini Modules
+# #ASKotec inspired Modules
 
-> A new generation of [#ASKotec](https://ASKotec.openculture.agency) inspired mini Training Kits with use-case specific layer options and a DIN A4 blueprint reference
+> A new generation of [#ASKotec](https://ASKotec.openculture.agency) inspired Training Kits with use-case specific layer options and a DIN A4 blueprint reference.
 
 - If you have any suggestions, please make sure to file an [Issue](https://github.com/opencultureagency/ASKotec-Modules/issues)
 - Feel free to Fork this Repository in Order to send in your own Module Designs or Additional Material to merge via [Pull Request](https://github.com/opencultureagency/ASKotec-Modules/pulls)
@@ -9,8 +9,10 @@
 ## [Work in Progress] ... under Development
 
 ![](assets/prototyping.jpg)
+`image 1: repair tools kit in the making`
 
 ![](assets/prototyping-2.jpg)
+`image 2: multimedia kit in the making`
 
 ## ToDo
 - [x] Design a Concept
@@ -18,12 +20,12 @@
 - [x] Build first Protoype for Repair
 - [x] Build First Prototype for Radio
 - [x] Build first Prototype for Multimedia
-- [ ] Build first Prototype for Solar
 - [ ] Upload Spreadsheet for available BOMs
 - [ ] Provide Meta Instructions on all Training Kits
-- [ ] Double Check Folder/File Structure
-- [ ] Double Check CAD Versioning vs. Repo Versioning
-- [ ] more to come
+- [x] Double Check Folder/File Structure
+- [x] Double Check CAD Versioning vs. Repo Versioning
+- [ ] First official Release 1.0 (Repair, Radio, Multimedia)
+- [ ] Build first Prototype for Solar
 
 
 
