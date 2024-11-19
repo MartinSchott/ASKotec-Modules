@@ -16,8 +16,8 @@
 - [x] Design a Concept
 - [x] Upload Grid Base Plate for prototyping
 - [x] Build first Protoype for Repair
-- [ ] Build First Prototype for Radio
-- [ ] Build first Prototype for Multimedia
+- [x] Build First Prototype for Radio
+- [x] Build first Prototype for Multimedia
 - [ ] Build first Prototype for Solar
 - [ ] Upload Spreadsheet for available BOMs
 - [ ] Provide Meta Instructions on all Training Kits
