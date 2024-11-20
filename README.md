@@ -6,13 +6,14 @@
 - Feel free to Fork this Repository in Order to send in your own Module Designs or Additional Material to merge via [Pull Request](https://github.com/opencultureagency/ASKotec-Modules/pulls)
 - Respect the Open Source [License Note below](README.md#license-references)
 
-## [Work in Progress] ... under Development
-
 ![](assets/prototyping.jpg)
 `image 1: repair tools kit in the making`
 
 ![](assets/prototyping-2.jpg)
 `image 2: multimedia kit in the making`
+
+![](assets/kits/Multimedia-Radio-Repair-1.jpg)
+`image 3: first 3 training kits ready`
 
 ## ToDo
 - [x] Design a Concept
@@ -29,14 +30,14 @@
 
 
 
-# Training Kits [WIP]
+# Training Kits
 
 ## Repair - Basic Tools
 
 **Modules (Layer 1-4)**
 
-- Module M001: Basic Essensials
-- Module M002: Basic Soldoring Tools
+- Module M001: Basic Essentials
+- Module M002: Basic Soldering Tools
 - Module M003: Basic Mobile Repair Tools
 - Module M004: Basic Mechanical Tools
 
@@ -44,15 +45,15 @@
 
 **Modules (Layer 1-3)**
 
-- Module M002: Basic Soldoring Tools
-- Module M005: Radio Accessories
-- Module M006: Radio Assembly
+- Module M002: Basic Soldering Tools
+- Module M005: FM Radio Basics
+- (optional) Module M006: Radio Assembly
 
 ## Multimedia - Hub
 
 **Modules (Layer 1-4)**
 
-- Module M007: Media Controle
+- Module M007: Media Controls
 - Module M008: Media Center
 - Module M009: Audio Extras
 - Module M010: Media Accessories
@@ -63,6 +64,8 @@
 
 
 # CAD
+
+More details via [CAD-README](CAD/README.md)
 
 ## Grid Base Plate
 
