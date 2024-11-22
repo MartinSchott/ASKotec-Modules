@@ -18,15 +18,15 @@
 ## ToDo
 - [x] Design a Concept
 - [x] Upload Grid Base Plate for prototyping
-- [x] Build first Protoype for Repair
+- [x] Build first Prototype for Repair
 - [x] Build First Prototype for Radio
 - [x] Build first Prototype for Multimedia
-- [ ] Upload Spreadsheet for available BOMs
-- [ ] Provide Meta Instructions on all Training Kits
+- [x] Provide Meta Instructions on all Training Kits
 - [x] Double Check Folder/File Structure
 - [x] Double Check CAD Versioning vs. Repo Versioning
+- [ ] Upload Spreadsheet for available Kit-BOMs (Item List Collection)
 - [ ] First official Release 1.0 (Repair, Radio, Multimedia)
-- [ ] Build first Prototype for Solar
+- [ ] Build first Prototype for Solar & more ...
 
 
 
@@ -36,34 +36,25 @@
 
 **Modules (Layer 1-4)**
 
-- Module M001: Basic Essentials
-- Module M002: Basic Soldering Tools
-- Module M003: Basic Mobile Repair Tools
-- Module M004: Basic Mechanical Tools
+[Training Kit Manual](/KITS/Repair%20-%20Basic%20Tools.md)
 
 ## Radio - DIY
 
 **Modules (Layer 1-3)**
 
-- Module M002: Basic Soldering Tools
-- Module M005: FM Radio Basics
-- (optional) Module M006: Radio Assembly
+[Training Kit Manual](/KITS/Radio%20-%20DIY.md)
 
 ## Multimedia - Hub
 
 **Modules (Layer 1-4)**
 
-- Module M007: Media Controls
-- Module M008: Media Center
-- Module M009: Audio Extras
-- Module M010: Media Accessories
+[Training Kit Manual](/KITS/Multimedia%20-%20Hub.md)
 
----
 
 ---
 
 
-# CAD
+# Packing
 
 More details via [CAD-README](CAD/README.md)
 
