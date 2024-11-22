@@ -1,6 +1,11 @@
 # Training Kits
 
 ![](../assets/kits/Multimedia-Radio-Repair-2.jpg)
+`initial set of the first 3 training kits`
+
+Just initially follow the [general assembly instructions](README.md#general-assembly-instructions). And then the individual guidance per Kit and Module.
+
+---
 
 ## Repair - Basic Tools
 
@@ -13,6 +18,8 @@
 - Module [M003](../MODULES/M003.md): Basic Mobile Repair Tools
 - Module [M004](../MODULES/M004.md): Basic Mechanical Tools
 
+---
+
 ## Radio - DIY
 
 ![](../assets/kits/Radio-DIY-1.jpg)
@@ -22,6 +29,8 @@
 - Module [M002](../MODULES/M002.md): Basic Soldering Tools
 - Module [M005](../MODULES/M005.md): FM Radio Basics
 - (optional) Module [M006](../MODULES/M006.md): Radio Assembly Extras
+
+---
 
 ## Multimedia - Hub
 
@@ -33,6 +42,8 @@
 - Module [M008](../MODULES/M008.md): Media Center
 - Module [M009](../MODULES/M009.md): Audio Extras
 - Module [M010](../MODULES/M010.md): Media Accessories
+
+---
 
 ## General Assembly Instructions
 

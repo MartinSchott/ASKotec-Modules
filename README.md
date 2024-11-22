@@ -15,40 +15,32 @@
 ![](assets/kits/Multimedia-Radio-Repair-1.jpg)
 `image 3: first 3 training kits ready`
 
-## ToDo
-- [x] Design a Concept
-- [x] Upload Grid Base Plate for prototyping
-- [x] Build first Prototype for Repair
-- [x] Build First Prototype for Radio
-- [x] Build first Prototype for Multimedia
-- [x] Provide Meta Instructions on all Training Kits
-- [x] Double Check Folder/File Structure
-- [x] Double Check CAD Versioning vs. Repo Versioning
-- [ ] Upload Spreadsheet for available Kit-BOMs (Item List Collection)
-- [ ] First official Release 1.0 (Repair, Radio, Multimedia)
-- [ ] Build first Prototype for Solar & more ...
-
-
 
 # Training Kits
+
+To get a better overview of all existing Training Kits and Module Resources for recombination. Start with the [**"TRAINING KITS" Section**](/KITS/) and its [README](/KITS/README.md). Or find the specific Kit Manuals below:
 
 ## Repair - Basic Tools
 
 **Modules (Layer 1-4)**
 
-[Training Kit Manual](/KITS/Repair%20-%20Basic%20Tools.md)
+**[Training Kit - Manual](/KITS/Repair%20-%20Basic%20Tools.md)**
+
+---
 
 ## Radio - DIY
 
 **Modules (Layer 1-3)**
 
-[Training Kit Manual](/KITS/Radio%20-%20DIY.md)
+**[Training Kit - Manual](/KITS/Radio%20-%20DIY.md)**
+
+---
 
 ## Multimedia - Hub
 
 **Modules (Layer 1-4)**
 
-[Training Kit Manual](/KITS/Multimedia%20-%20Hub.md)
+**[Training Kit - Manual](/KITS/Multimedia%20-%20Hub.md)**
 
 
 ---
@@ -75,10 +67,6 @@ More details via [CAD-README](CAD/README.md)
 
 
 
-
-
----
-
 ---
 
 
@@ -86,7 +74,6 @@ More details via [CAD-README](CAD/README.md)
 
 For some of the Kits (e.g. Multimedia - Hub) a software setup will be needed to complete the build. Those instructions and further details are available in the [Software/README.md](Software/README.md).
 
----
 
 ---
 
@@ -96,3 +83,18 @@ For some of the Kits (e.g. Multimedia - Hub) a software setup will be needed to 
 - **All Documentation** is Licensed as [CC-BY-SA 4.0](LICENSE_CC_BY_SA_4.0.md) and for further collaboration/integration all **Module CAD Designs** are also available under [CERN OHL W 2.0](CAD/LICENSE_cern_ohl_w_v2.txt). 
 - (Future Software Packages might also Reference other compatible Licenses here as MIT, Apache or a respective GPL License)
 - > Original Inspiration comes from [#ASKotec Main Repo](https://github.com/opencultureagency/ASKotec) under CC-BY-SA 4.0 (though this new design is developed from the ground up)
+
+---
+
+# ToDo
+- [x] Design a Concept
+- [x] Upload Grid Base Plate for prototyping
+- [x] Build first Prototype for Repair
+- [x] Build First Prototype for Radio
+- [x] Build first Prototype for Multimedia
+- [x] Provide Meta Instructions on all Training Kits
+- [x] Double Check Folder/File Structure
+- [x] Double Check CAD Versioning vs. Repo Versioning
+- [ ] Upload Spreadsheet for available Kit-BOMs (Item List Collection)
+- [ ] First official Release 1.0 (Repair, Radio, Multimedia)
+- [ ] Build first Prototype for Solar & more ...
