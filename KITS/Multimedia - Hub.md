@@ -24,3 +24,16 @@ The Kit is assembled in a way, one can attach the modules together with hook-and
 
 ![](../assets/kits/Multimedia-1.jpg)
 `Multimedia-Hub: spread out on table (raw packing setup without shadow-board)`
+
+For the Setup Use-Case make sure to connect all devices to power and power the screen and RPi separately if possible to avoid power shortage. If needed connect the "Audio Extras".
+
+![](../assets/prototyping-2.jpg)
+
+> When using the DAC HAT (recommended) for better quality audio (RPi5 has no specific audio output) and the NVMe SSD storage option for media data, make sure to connect all adapters properly:
+
+![](../assets/RPi5+HAT-2.jpg)
+`add DAC Hub with SSD on top of the Raspberry Pi 5`
+
+![](../assets/RPi5+HAT.jpg)
+`the lid still fits in that stacked configuration for protection`
+
