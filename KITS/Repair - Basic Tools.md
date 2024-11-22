@@ -9,11 +9,12 @@ This Training Kit is for repair enthusiasts. It contains all basics tools to rep
 
 ## Modules included
 
-**Modules (Layer 1-3)**
+**Modules (Layer 1-4)**
 
+- Module [M001](../MODULES/M001.md): Basic Essentials
 - Module [M002](../MODULES/M002.md): Basic Soldering Tools
-- Module [M005](../MODULES/M005.md): FM Radio Basics
-- (optional) Module [M006](../MODULES/M006.md): Radio Assembly Extras
+- Module [M003](../MODULES/M003.md): Basic Mobile Repair Tools
+- Module [M004](../MODULES/M004.md): Basic Mechanical Tools
 
 ## Assembly Notes
 

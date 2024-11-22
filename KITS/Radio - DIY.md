@@ -17,3 +17,5 @@ This kit is essentially the first FM receiver self build experience kit, you can
 ## Assembly Notes
 
 This kit can be extended with Module M006 containing additional Radio DIY sets (4 recommended for training).
+
+Just follow the general assembly instructions in the [KITS README](README.md#general-assembly-instructions).

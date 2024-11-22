@@ -37,3 +37,4 @@ For the Setup Use-Case make sure to connect all devices to power and power the s
 ![](../assets/RPi5+HAT.jpg)
 `the lid still fits in that stacked configuration for protection`
 
+Just follow the general assembly instructions in the [KITS README](README.md#general-assembly-instructions).
