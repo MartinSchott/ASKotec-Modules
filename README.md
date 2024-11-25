@@ -22,6 +22,8 @@ To get a better overview of all existing Training Kits and Module Resources for 
 
 ## Repair - Basic Tools
 
+![](/assets/kits/Repair-Basic-Tools-1.jpg)
+
 **Modules (Layer 1-4)**
 
 **[Training Kit - Manual](/KITS/Repair%20-%20Basic%20Tools.md)**
@@ -30,6 +32,8 @@ To get a better overview of all existing Training Kits and Module Resources for 
 
 ## Radio - DIY
 
+![](/assets/kits/Radio-DIY-1.jpg)
+
 **Modules (Layer 1-3)**
 
 **[Training Kit - Manual](/KITS/Radio%20-%20DIY.md)**
@@ -37,6 +41,8 @@ To get a better overview of all existing Training Kits and Module Resources for 
 ---
 
 ## Multimedia - Hub
+
+![](/assets/kits/Multimedia-Hub-1.jpg)
 
 **Modules (Layer 1-4)**
 
