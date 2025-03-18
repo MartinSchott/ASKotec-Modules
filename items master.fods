@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.spreadsheet">
- <office:meta><meta:generator>LibreOffice/24.8.5.2$Linux_X86_64 LibreOffice_project/480$Build-2</meta:generator><dc:date>2025-03-18T16:45:02.919081786</dc:date><meta:editing-duration>P1DT6H31M47S</meta:editing-duration><meta:editing-cycles>27</meta:editing-cycles><meta:document-statistic meta:table-count="2" meta:cell-count="228" meta:object-count="0"/></office:meta>
+ <office:meta><meta:generator>LibreOffice/24.8.5.2$Linux_X86_64 LibreOffice_project/480$Build-2</meta:generator><dc:date>2025-03-18T17:27:54.007777707</dc:date><meta:editing-duration>P1DT7H14M37S</meta:editing-duration><meta:editing-cycles>29</meta:editing-cycles><meta:document-statistic meta:table-count="2" meta:cell-count="232" meta:object-count="0"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
    <config:config-item config:name="VisibleAreaLeft" config:type="int">0</config:config-item>
    <config:config-item config:name="VisibleAreaWidth" config:type="int">42319</config:config-item>
-   <config:config-item config:name="VisibleAreaHeight" config:type="int">36527</config:config-item>
+   <config:config-item config:name="VisibleAreaHeight" config:type="int">37539</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
      <config:config-item-map-named config:name="Tables">
       <config:config-item-map-entry config:name="items → modules">
-       <config:config-item config:name="CursorPositionX" config:type="int">8</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">69</config:config-item>
+       <config:config-item config:name="CursorPositionX" config:type="int">10</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">7</config:config-item>
        <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="VerticalSplitMode" config:type="short">2</config:config-item>
        <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
@@ -23,7 +23,7 @@
        <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
-       <config:config-item config:name="PositionBottom" config:type="int">46</config:config-item>
+       <config:config-item config:name="PositionBottom" config:type="int">1</config:config-item>
        <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
        <config:config-item config:name="ZoomValue" config:type="int">110</config:config-item>
        <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
@@ -357,6 +357,10 @@
    <style:table-cell-properties fo:background-color="#dde8cb" fo:wrap-option="wrap" style:vertical-align="middle"/>
    <style:text-properties style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" fo:language="de" fo:country="DE" fo:text-shadow="none" style:text-underline-style="none" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous" style:language-asian="zh" style:country-asian="CN" style:font-style-asian="normal" style:font-weight-asian="normal" style:language-complex="hi" style:country-complex="IN" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
+  <style:style style:name="ce8" style:family="table-cell" style:parent-style-name="Normal">
+   <style:table-cell-properties fo:background-color="transparent" fo:wrap-option="wrap" style:vertical-align="middle"/>
+   <style:text-properties style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" fo:language="de" fo:country="DE" fo:text-shadow="none" style:text-underline-style="none" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous" style:language-asian="zh" style:country-asian="CN" style:font-style-asian="normal" style:font-weight-asian="normal" style:language-complex="hi" style:country-complex="IN" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+  </style:style>
   <style:style style:name="ce2" style:family="table-cell" style:parent-style-name="Normal">
    <style:table-cell-properties fo:wrap-option="wrap" style:vertical-align="middle"/>
    <style:text-properties style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" fo:language="de" fo:country="DE" fo:text-shadow="none" style:text-underline-style="none" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous" style:language-asian="zh" style:country-asian="CN" style:font-style-asian="normal" style:font-weight-asian="normal" style:language-complex="hi" style:country-complex="IN" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
@@ -370,13 +374,13 @@
    <style:paragraph-properties fo:text-align="start" fo:margin-left="0.353cm"/>
    <style:text-properties style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" fo:language="de" fo:country="DE" fo:text-shadow="none" style:text-underline-style="none" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous" style:language-asian="zh" style:country-asian="CN" style:font-style-asian="normal" style:font-weight-asian="normal" style:language-complex="hi" style:country-complex="IN" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
-  <style:style style:name="ce17" style:family="table-cell" style:parent-style-name="Normal">
+  <style:style style:name="ce18" style:family="table-cell" style:parent-style-name="Normal">
    <style:table-cell-properties fo:background-color="#dde8cb" style:vertical-align="middle"/>
   </style:style>
-  <style:style style:name="ce18" style:family="table-cell" style:parent-style-name="Normal">
+  <style:style style:name="ce20" style:family="table-cell" style:parent-style-name="Normal">
    <style:table-cell-properties style:vertical-align="middle"/>
   </style:style>
-  <style:style style:name="ce20" style:family="table-cell" style:parent-style-name="Normal">
+  <style:style style:name="ce21" style:family="table-cell" style:parent-style-name="Normal">
    <style:table-cell-properties fo:background-color="#fff5ce" style:vertical-align="middle"/>
   </style:style>
   <style:style style:name="ce4" style:family="table-cell" style:parent-style-name="Default">
@@ -386,11 +390,14 @@
    <style:table-cell-properties fo:border-bottom="0.74pt solid #000000" fo:background-color="#dee8ed" fo:wrap-option="wrap" fo:border-left="none" fo:border-right="none" fo:border-top="none" style:vertical-align="middle"/>
    <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="ce26" style:family="table-cell" style:parent-style-name="Normal">
+  <style:style style:name="ce27" style:family="table-cell" style:parent-style-name="Normal">
    <style:table-cell-properties fo:background-color="#fff5ce" fo:wrap-option="wrap" style:vertical-align="middle"/>
   </style:style>
-  <style:style style:name="ce27" style:family="table-cell" style:parent-style-name="Normal">
+  <style:style style:name="ce29" style:family="table-cell" style:parent-style-name="Normal">
    <style:table-cell-properties fo:background-color="#dde8cb" fo:wrap-option="wrap" style:vertical-align="middle"/>
+  </style:style>
+  <style:style style:name="ce33" style:family="table-cell" style:parent-style-name="Normal">
+   <style:table-cell-properties fo:background-color="transparent" fo:wrap-option="wrap" style:vertical-align="middle"/>
   </style:style>
   <style:style style:name="ce6" style:family="table-cell" style:parent-style-name="Normal">
    <style:table-cell-properties fo:wrap-option="wrap" style:vertical-align="middle"/>
@@ -402,30 +409,43 @@
   <style:style style:name="ce7" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties fo:wrap-option="wrap" style:vertical-align="middle"/>
   </style:style>
-  <style:style style:name="ce37" style:family="table-cell" style:parent-style-name="Normal">
+  <style:style style:name="ce39" style:family="table-cell" style:parent-style-name="Normal">
+   <style:table-cell-properties fo:background-color="transparent" style:vertical-align="middle"/>
+  </style:style>
+  <style:style style:name="ce40" style:family="table-cell" style:parent-style-name="Normal">
    <style:table-cell-properties fo:wrap-option="no-wrap" style:vertical-align="middle"/>
   </style:style>
-  <style:style style:name="ce38" style:family="table-cell" style:parent-style-name="Default">
+  <style:style style:name="ce41" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties fo:background-color="#dde8cb"/>
+  </style:style>
+  <style:style style:name="ce42" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:background-color="#fff5ce" style:vertical-align="middle"/>
+  </style:style>
+  <style:style style:name="ce43" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:background-color="transparent" style:vertical-align="middle"/>
   </style:style>
   <style:style style:name="ce25" style:family="table-cell" style:parent-style-name="Normal">
    <style:table-cell-properties fo:border-bottom="0.74pt solid #000000" fo:background-color="#dee8ed" style:text-align-source="fix" style:repeat-content="false" fo:border-left="none" fo:border-right="none" fo:border-top="none" style:vertical-align="middle"/>
    <style:paragraph-properties fo:text-align="center" fo:margin-left="0cm"/>
    <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="ce40" style:family="table-cell" style:parent-style-name="Normal">
+  <style:style style:name="ce45" style:family="table-cell" style:parent-style-name="Normal">
    <style:table-cell-properties fo:background-color="#fff5ce" style:text-align-source="fix" style:repeat-content="false" style:vertical-align="middle"/>
    <style:paragraph-properties fo:text-align="center" fo:margin-left="0cm"/>
   </style:style>
-  <style:style style:name="ce41" style:family="table-cell" style:parent-style-name="Normal">
+  <style:style style:name="ce46" style:family="table-cell" style:parent-style-name="Normal">
    <style:table-cell-properties fo:background-color="#dde8cb" style:text-align-source="fix" style:repeat-content="false" style:vertical-align="middle"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0cm"/>
+  </style:style>
+  <style:style style:name="ce47" style:family="table-cell" style:parent-style-name="Normal">
+   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" fo:background-color="transparent" style:vertical-align="middle"/>
    <style:paragraph-properties fo:text-align="center" fo:margin-left="0cm"/>
   </style:style>
   <style:style style:name="ce9" style:family="table-cell" style:parent-style-name="Normal">
    <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" style:vertical-align="middle"/>
    <style:paragraph-properties fo:text-align="center" fo:margin-left="0cm"/>
   </style:style>
-  <style:style style:name="ce43" style:family="table-cell" style:parent-style-name="Default">
+  <style:style style:name="ce49" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties fo:background-color="#fff5ce"/>
   </style:style>
   <style:style style:name="ce10" style:family="table-cell" style:parent-style-name="Default">
@@ -436,10 +456,13 @@
    <style:table-cell-properties fo:border-bottom="0.74pt solid #000000" fo:background-color="#dee8ed" fo:wrap-option="no-wrap" fo:border-left="none" fo:border-right="none" fo:border-top="none" style:vertical-align="middle"/>
    <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="ce46" style:family="table-cell" style:parent-style-name="Normal">
+  <style:style style:name="ce52" style:family="table-cell" style:parent-style-name="Normal">
+   <style:table-cell-properties fo:background-color="transparent" fo:wrap-option="no-wrap" style:vertical-align="middle"/>
+  </style:style>
+  <style:style style:name="ce53" style:family="table-cell" style:parent-style-name="Normal">
    <style:table-cell-properties fo:border-bottom="none" fo:wrap-option="no-wrap" fo:border-left="0.74pt solid #000000" fo:border-right="0.74pt solid #000000" fo:border-top="0.74pt solid #000000" style:vertical-align="middle"/>
   </style:style>
-  <style:style style:name="ce47" style:family="table-cell" style:parent-style-name="Normal">
+  <style:style style:name="ce54" style:family="table-cell" style:parent-style-name="Normal">
    <style:table-cell-properties fo:border-bottom="0.74pt solid #000000" fo:wrap-option="no-wrap" fo:border-left="0.74pt solid #000000" fo:border-right="0.74pt solid #000000" fo:border-top="none" style:vertical-align="middle"/>
   </style:style>
   <style:style style:name="ce30" style:family="table-cell" style:parent-style-name="Normal">
@@ -455,11 +478,14 @@
   <style:style style:name="ce22" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties fo:wrap-option="wrap"/>
   </style:style>
-  <style:style style:name="ce52" style:family="table-cell" style:parent-style-name="Normal">
+  <style:style style:name="ce59" style:family="table-cell" style:parent-style-name="Normal">
    <style:table-cell-properties fo:background-color="#ffb66c" fo:wrap-option="wrap" style:vertical-align="middle"/>
   </style:style>
   <style:style style:name="ce34" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties fo:border-bottom="0.74pt solid #000000" fo:background-color="#dee8ed" fo:border-left="none" fo:border-right="none" fo:border-top="none"/>
+  </style:style>
+  <style:style style:name="ce61" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:background-color="transparent"/>
   </style:style>
   <style:style style:name="ce35" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties fo:border-bottom="0.74pt solid #000000" fo:background-color="#dee8ed" fo:border-left="none" fo:border-right="none" fo:border-top="none" style:vertical-align="middle"/>
@@ -586,192 +612,229 @@
      <table:table-cell table:style-name="ce3" office:value-type="string" calcext:value-type="string">
       <text:p>Headlamp</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce26" table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce20" office:value-type="float" office:value="14.99" calcext:value-type="float">
+     <table:table-cell table:style-name="ce27" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce21" office:value-type="float" office:value="14.99" calcext:value-type="float">
       <text:p>14,99</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce40" office:value-type="float" office:value="1" calcext:value-type="float">
+     <table:table-cell table:style-name="ce45" office:value-type="float" office:value="1" calcext:value-type="float">
       <text:p>1</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce20"/>
-     <table:table-cell table:style-name="ce40" table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce37" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce21"/>
+     <table:table-cell table:style-name="ce45" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce40" office:value-type="string" calcext:value-type="string">
       <text:p>https://www.reichelt.de/de/de/shop/produkt/led-stirnleuchte_ip54_gestensteuerung-274890</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce22"/>
-     <table:table-cell table:style-name="ce52" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce59" office:value-type="string" calcext:value-type="string">
       <text:p>checken wie das mit Foto und Video ist mit der Kopflampe. USB oder Akku?</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce18" table:number-columns-repeated="1013"/>
+     <table:table-cell table:style-name="ce20" table:number-columns-repeated="1013"/>
      <table:table-cell table:number-columns-repeated="15360"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
      <table:table-cell table:style-name="ce3"/>
-     <table:table-cell table:style-name="ce26" table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce20" office:value-type="float" office:value="8.4" calcext:value-type="float">
+     <table:table-cell table:style-name="ce27" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce21" office:value-type="float" office:value="8.4" calcext:value-type="float">
       <text:p>8,4</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce40"/>
-     <table:table-cell table:style-name="ce20"/>
-     <table:table-cell table:style-name="ce40" table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce37" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce45"/>
+     <table:table-cell table:style-name="ce21"/>
+     <table:table-cell table:style-name="ce45" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce40" office:value-type="string" calcext:value-type="string">
       <text:p>https://www.reichelt.de/de/de/shop/produkt/led-stirnleuchte_240_lm_schwarz_ipx4_3x_aaa_micro_-329723</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce22"/>
      <table:table-cell table:style-name="ce6"/>
-     <table:table-cell table:style-name="ce18" table:number-columns-repeated="1013"/>
+     <table:table-cell table:style-name="ce20" table:number-columns-repeated="1013"/>
      <table:table-cell table:number-columns-repeated="15360"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
      <table:table-cell table:style-name="ce3"/>
-     <table:table-cell table:style-name="ce26" table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce20" office:value-type="float" office:value="13.49" calcext:value-type="float">
+     <table:table-cell table:style-name="ce27" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce21" office:value-type="float" office:value="13.49" calcext:value-type="float">
       <text:p>13,49</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce40"/>
-     <table:table-cell table:style-name="ce20"/>
-     <table:table-cell table:style-name="ce40" table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce37" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce45"/>
+     <table:table-cell table:style-name="ce21"/>
+     <table:table-cell table:style-name="ce45" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce40" office:value-type="string" calcext:value-type="string">
       <text:p>https://www.hellweg.de/a/varta-led-kopfleuchte-outdoor-sports-h10-pro-inkl-batteriebestueckung-298060</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce22"/>
      <table:table-cell table:style-name="ce6"/>
-     <table:table-cell table:style-name="ce18" table:number-columns-repeated="1013"/>
+     <table:table-cell table:style-name="ce20" table:number-columns-repeated="1013"/>
      <table:table-cell table:number-columns-repeated="15360"/>
     </table:table-row>
     <table:table-row table:style-name="ro4">
      <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string"><text:p>Travel Adaptor</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce27" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce29" office:value-type="string" calcext:value-type="string">
       <text:p>Netzteil USB</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce17"/>
-     <table:table-cell table:style-name="ce17" office:value-type="float" office:value="18.25" calcext:value-type="float">
+     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:style-name="ce18" office:value-type="float" office:value="18.25" calcext:value-type="float">
       <text:p>18,25</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce41" office:value-type="float" office:value="1" calcext:value-type="float">
+     <table:table-cell table:style-name="ce46" office:value-type="float" office:value="1" calcext:value-type="float">
       <text:p>1</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce17"/>
-     <table:table-cell table:style-name="ce41" table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce37" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:style-name="ce46" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce40" office:value-type="string" calcext:value-type="string">
       <text:p>https://www.offgridtec.com/2-stk.-usb-ladegeraet-extra-flaches-netzteil-dual-port-usb-a-usb-c-weiss-30w.html</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce18"/>
-     <table:table-cell table:style-name="ce52" office:value-type="string" calcext:value-type="string"><text:p>Watt checken. </text:p><text:p>→ brauchen wir dann auch USB-Kabel?</text:p>
+     <table:table-cell table:style-name="ce20"/>
+     <table:table-cell table:style-name="ce59" office:value-type="string" calcext:value-type="string"><text:p>Watt checken. </text:p><text:p>→ brauchen wir dann auch USB-Kabel?</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce18" table:number-columns-repeated="1013"/>
+     <table:table-cell table:style-name="ce20" table:number-columns-repeated="1013"/>
      <table:table-cell table:number-columns-repeated="15360"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
      <table:table-cell table:style-name="ce5"/>
-     <table:table-cell table:style-name="ce27"/>
-     <table:table-cell table:style-name="ce17"/>
-     <table:table-cell table:style-name="ce17" office:value-type="float" office:value="24.99" calcext:value-type="float">
+     <table:table-cell table:style-name="ce29"/>
+     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:style-name="ce18" office:value-type="float" office:value="24.99" calcext:value-type="float">
       <text:p>24,99</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce41"/>
-     <table:table-cell table:style-name="ce17"/>
-     <table:table-cell table:style-name="ce41" table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce37" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce46"/>
+     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:style-name="ce46" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce40" office:value-type="string" calcext:value-type="string">
       <text:p>https://pine64.com/product/pinepower-65w-gan-2c1a-charger-with-international-plugs/</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:style-name="ce20"/>
      <table:table-cell table:style-name="ce6"/>
-     <table:table-cell table:style-name="ce18" table:number-columns-repeated="1013"/>
+     <table:table-cell table:style-name="ce20" table:number-columns-repeated="1013"/>
      <table:table-cell table:number-columns-repeated="15360"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
      <table:table-cell table:style-name="ce5"/>
-     <table:table-cell table:style-name="ce27"/>
-     <table:table-cell table:style-name="ce17" table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce41"/>
-     <table:table-cell table:style-name="ce17"/>
-     <table:table-cell table:style-name="ce41" table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce37"/>
+     <table:table-cell table:style-name="ce29"/>
+     <table:table-cell table:style-name="ce18" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce46"/>
      <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:style-name="ce46" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce40"/>
+     <table:table-cell table:style-name="ce20"/>
      <table:table-cell table:style-name="ce6"/>
-     <table:table-cell table:style-name="ce18" table:number-columns-repeated="1013"/>
+     <table:table-cell table:style-name="ce20" table:number-columns-repeated="1013"/>
      <table:table-cell table:number-columns-repeated="15360"/>
     </table:table-row>
     <table:table-row table:style-name="ro4">
-     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce3" office:value-type="string" calcext:value-type="string">
       <text:p>First Aid Kit + Ointment Gel</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce6"/>
-     <table:table-cell table:style-name="ce18"/>
-     <table:table-cell office:value-type="float" office:value="4.99" calcext:value-type="float">
+     <table:table-cell table:style-name="ce27"/>
+     <table:table-cell table:style-name="ce21"/>
+     <table:table-cell table:style-name="ce42" office:value-type="float" office:value="4.99" calcext:value-type="float">
       <text:p>4,99</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce9" office:value-type="float" office:value="1" calcext:value-type="float">
+     <table:table-cell table:style-name="ce45" office:value-type="float" office:value="1" calcext:value-type="float">
       <text:p>1</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce18"/>
-     <table:table-cell table:style-name="ce9" table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce37" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce21"/>
+     <table:table-cell table:style-name="ce45" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce40" office:value-type="string" calcext:value-type="string">
       <text:p>https://www.docmorris.de/travellerset-32teilig-wundmed/16237371</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce18"/>
-     <table:table-cell table:style-name="ce6"/>
-     <table:table-cell table:style-name="ce18" table:number-columns-repeated="1013"/>
+     <table:table-cell table:style-name="ce20"/>
+     <table:table-cell table:style-name="ce59" office:value-type="string" calcext:value-type="string">
+      <text:p>ggf gleich 5x holen</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce20" table:number-columns-repeated="1013"/>
      <table:table-cell table:number-columns-repeated="15360"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro3">
+     <table:table-cell table:style-name="ce3"/>
+     <table:table-cell table:style-name="ce27"/>
+     <table:table-cell table:style-name="ce21"/>
+     <table:table-cell table:style-name="ce42" office:value-type="float" office:value="9.99" calcext:value-type="float">
+      <text:p>9,99</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce45"/>
+     <table:table-cell table:style-name="ce21"/>
+     <table:table-cell table:style-name="ce45" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce40" office:value-type="string" calcext:value-type="string">
+      <text:p>https://www.ebay.de/itm/223375996371</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce20"/>
+     <table:table-cell table:style-name="ce6"/>
+     <table:table-cell table:style-name="ce20" table:number-columns-repeated="1013"/>
+     <table:table-cell table:number-columns-repeated="15360"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce8" office:value-type="string" calcext:value-type="string">
+      <text:p>Brandsalbe?</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce33"/>
+     <table:table-cell table:style-name="ce39"/>
+     <table:table-cell table:style-name="ce43"/>
+     <table:table-cell table:style-name="ce47"/>
+     <table:table-cell table:style-name="ce39"/>
+     <table:table-cell table:style-name="ce47" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce52"/>
+     <table:table-cell table:style-name="ce39"/>
+     <table:table-cell table:style-name="ce33"/>
+     <table:table-cell table:style-name="ce39" table:number-columns-repeated="1013"/>
+     <table:table-cell table:style-name="ce61" table:number-columns-repeated="5"/>
+     <table:table-cell table:style-name="ce43" table:number-columns-repeated="15355"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
       <text:p>Scissors</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce27"/>
-     <table:table-cell table:style-name="ce17"/>
-     <table:table-cell table:style-name="ce17" office:value-type="float" office:value="23.99" calcext:value-type="float">
+     <table:table-cell table:style-name="ce29"/>
+     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:style-name="ce18" office:value-type="float" office:value="23.99" calcext:value-type="float">
       <text:p>23,99</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce41" office:value-type="float" office:value="1" calcext:value-type="float">
+     <table:table-cell table:style-name="ce46" office:value-type="float" office:value="1" calcext:value-type="float">
       <text:p>1</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce17"/>
-     <table:table-cell table:style-name="ce41" table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce37" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:style-name="ce46" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce40" office:value-type="string" calcext:value-type="string">
       <text:p>https://www.hellweg.de/a/krone-haushaltsschere-200-mm-rf-2k-groesse-123729</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:style-name="ce20"/>
      <table:table-cell table:style-name="ce6"/>
-     <table:table-cell table:style-name="ce18" table:number-columns-repeated="1013"/>
+     <table:table-cell table:style-name="ce20" table:number-columns-repeated="1013"/>
      <table:table-cell table:number-columns-repeated="15360"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
      <table:table-cell table:style-name="ce5"/>
-     <table:table-cell table:style-name="ce27"/>
-     <table:table-cell table:style-name="ce17"/>
-     <table:table-cell table:style-name="ce17" office:value-type="float" office:value="6.29" calcext:value-type="float">
+     <table:table-cell table:style-name="ce29"/>
+     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:style-name="ce18" office:value-type="float" office:value="6.29" calcext:value-type="float">
       <text:p>6,29</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce41"/>
-     <table:table-cell table:style-name="ce17"/>
-     <table:table-cell table:style-name="ce41" table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce37" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce46"/>
+     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:style-name="ce46" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce40" office:value-type="string" calcext:value-type="string">
       <text:p>https://www.reichelt.de/de/de/shop/produkt/schere_allzweck_soft-cut_210_mm-309467</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:style-name="ce20"/>
      <table:table-cell table:style-name="ce6"/>
-     <table:table-cell table:style-name="ce18" table:number-columns-repeated="1013"/>
+     <table:table-cell table:style-name="ce20" table:number-columns-repeated="1013"/>
      <table:table-cell table:number-columns-repeated="15360"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
      <table:table-cell table:style-name="ce5"/>
-     <table:table-cell table:style-name="ce27"/>
-     <table:table-cell table:style-name="ce17"/>
-     <table:table-cell table:style-name="ce17" office:value-type="float" office:value="13.28" calcext:value-type="float">
+     <table:table-cell table:style-name="ce29"/>
+     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:style-name="ce18" office:value-type="float" office:value="13.28" calcext:value-type="float">
       <text:p>13,28</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce41"/>
-     <table:table-cell table:style-name="ce17"/>
-     <table:table-cell table:style-name="ce41" table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce37" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce46"/>
+     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:style-name="ce46" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce40" office:value-type="string" calcext:value-type="string">
       <text:p>https://www.reichelt.de/de/de/shop/produkt/schere_secumax_363_sicherheitsschere_56_mm-289695</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:style-name="ce20"/>
      <table:table-cell table:style-name="ce6"/>
-     <table:table-cell table:style-name="ce18" table:number-columns-repeated="1013"/>
+     <table:table-cell table:style-name="ce20" table:number-columns-repeated="1013"/>
      <table:table-cell table:number-columns-repeated="15360"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
@@ -779,16 +842,16 @@
       <text:p>ballpoint pen</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce6"/>
-     <table:table-cell table:style-name="ce18" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce20" table:number-columns-repeated="2"/>
      <table:table-cell table:style-name="ce9" office:value-type="float" office:value="1" calcext:value-type="float">
       <text:p>1</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:style-name="ce20"/>
      <table:table-cell table:style-name="ce9" table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce37"/>
-     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:style-name="ce40"/>
+     <table:table-cell table:style-name="ce20"/>
      <table:table-cell table:style-name="ce6"/>
-     <table:table-cell table:style-name="ce18" table:number-columns-repeated="1013"/>
+     <table:table-cell table:style-name="ce20" table:number-columns-repeated="1013"/>
      <table:table-cell table:number-columns-repeated="15360"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
@@ -796,21 +859,21 @@
       <text:p>Measure tape</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce6"/>
-     <table:table-cell table:style-name="ce18"/>
-     <table:table-cell table:style-name="ce18" office:value-type="float" office:value="4.45" calcext:value-type="float">
+     <table:table-cell table:style-name="ce20"/>
+     <table:table-cell table:style-name="ce20" office:value-type="float" office:value="4.45" calcext:value-type="float">
       <text:p>4,45</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce9" office:value-type="float" office:value="1" calcext:value-type="float">
       <text:p>1</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:style-name="ce20"/>
      <table:table-cell table:style-name="ce9" table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce37" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce40" office:value-type="string" calcext:value-type="string">
       <text:p>https://www.reichelt.de/de/de/shop/produkt/massband_stahl_3_5_m-334634</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:style-name="ce20"/>
      <table:table-cell table:style-name="ce6"/>
-     <table:table-cell table:style-name="ce18" table:number-columns-repeated="1013"/>
+     <table:table-cell table:style-name="ce20" table:number-columns-repeated="1013"/>
      <table:table-cell table:number-columns-repeated="15360"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
@@ -818,287 +881,287 @@
       <text:p>Lighter</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce6"/>
-     <table:table-cell table:style-name="ce37" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce40" office:value-type="string" calcext:value-type="string">
       <text:p>von BIC</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce18" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce20" office:value-type="string" calcext:value-type="string">
       <text:p>1-2€</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce9" office:value-type="float" office:value="1" calcext:value-type="float">
       <text:p>1</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:style-name="ce20"/>
      <table:table-cell table:style-name="ce9" table:number-columns-repeated="2"/>
      <table:table-cell table:style-name="Default"/>
-     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:style-name="ce20"/>
      <table:table-cell table:style-name="ce6"/>
-     <table:table-cell table:style-name="ce18" table:number-columns-repeated="1013"/>
+     <table:table-cell table:style-name="ce20" table:number-columns-repeated="1013"/>
      <table:table-cell table:number-columns-repeated="15360"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce3" office:value-type="string" calcext:value-type="string">
       <text:p>USB Flash drive </text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce26" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce27" office:value-type="string" calcext:value-type="string">
       <text:p>32-64GB</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce20"/>
-     <table:table-cell table:style-name="ce20" office:value-type="float" office:value="4.16" calcext:value-type="float">
+     <table:table-cell table:style-name="ce21"/>
+     <table:table-cell table:style-name="ce21" office:value-type="float" office:value="4.16" calcext:value-type="float">
       <text:p>4,16</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce40" office:value-type="float" office:value="1" calcext:value-type="float">
+     <table:table-cell table:style-name="ce45" office:value-type="float" office:value="1" calcext:value-type="float">
       <text:p>1</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce20"/>
-     <table:table-cell table:style-name="ce40" table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce37" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce21"/>
+     <table:table-cell table:style-name="ce45" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce40" office:value-type="string" calcext:value-type="string">
       <text:p>https://www.reichelt.de/de/de/shop/produkt/usb-stick_usb_3_2_gen1_32_gb_premium_line-150218</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:style-name="ce20"/>
      <table:table-cell table:style-name="ce6"/>
-     <table:table-cell table:style-name="ce18" table:number-columns-repeated="1013"/>
+     <table:table-cell table:style-name="ce20" table:number-columns-repeated="1013"/>
      <table:table-cell table:number-columns-repeated="15360"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
      <table:table-cell table:style-name="ce3"/>
-     <table:table-cell table:style-name="ce26"/>
-     <table:table-cell table:style-name="ce20"/>
-     <table:table-cell table:style-name="ce20" office:value-type="float" office:value="5" calcext:value-type="float">
+     <table:table-cell table:style-name="ce27"/>
+     <table:table-cell table:style-name="ce21"/>
+     <table:table-cell table:style-name="ce21" office:value-type="float" office:value="5" calcext:value-type="float">
       <text:p>5</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce40"/>
-     <table:table-cell table:style-name="ce20"/>
-     <table:table-cell table:style-name="ce40" table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce37" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce45"/>
+     <table:table-cell table:style-name="ce21"/>
+     <table:table-cell table:style-name="ce45" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce40" office:value-type="string" calcext:value-type="string">
       <text:p>https://www.reichelt.de/de/de/shop/produkt/usb-stick_usb_3_0_16_gb_slim_line-150461</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:style-name="ce20"/>
      <table:table-cell table:style-name="ce6"/>
-     <table:table-cell table:style-name="ce18" table:number-columns-repeated="1013"/>
+     <table:table-cell table:style-name="ce20" table:number-columns-repeated="1013"/>
      <table:table-cell table:number-columns-repeated="15360"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
      <table:table-cell table:style-name="ce3"/>
-     <table:table-cell table:style-name="ce26"/>
-     <table:table-cell table:style-name="ce20"/>
-     <table:table-cell table:style-name="ce20" office:value-type="float" office:value="5.84" calcext:value-type="float">
+     <table:table-cell table:style-name="ce27"/>
+     <table:table-cell table:style-name="ce21"/>
+     <table:table-cell table:style-name="ce21" office:value-type="float" office:value="5.84" calcext:value-type="float">
       <text:p>5,84</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce40"/>
-     <table:table-cell table:style-name="ce20"/>
-     <table:table-cell table:style-name="ce40" table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce37" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce45"/>
+     <table:table-cell table:style-name="ce21"/>
+     <table:table-cell table:style-name="ce45" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce40" office:value-type="string" calcext:value-type="string">
       <text:p>https://www.reichelt.de/de/de/shop/produkt/usb-stick_usb_3_0_32_gb_usb-c_otg_dual_drive-237772</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:style-name="ce20"/>
      <table:table-cell table:style-name="ce6"/>
-     <table:table-cell table:style-name="ce18" table:number-columns-repeated="1013"/>
+     <table:table-cell table:style-name="ce20" table:number-columns-repeated="1013"/>
      <table:table-cell table:number-columns-repeated="15360"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
      <table:table-cell table:style-name="ce3"/>
-     <table:table-cell table:style-name="ce26"/>
-     <table:table-cell table:style-name="ce20"/>
-     <table:table-cell table:style-name="ce20" office:value-type="float" office:value="6.3" calcext:value-type="float">
+     <table:table-cell table:style-name="ce27"/>
+     <table:table-cell table:style-name="ce21"/>
+     <table:table-cell table:style-name="ce21" office:value-type="float" office:value="6.3" calcext:value-type="float">
       <text:p>6,3</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce40"/>
-     <table:table-cell table:style-name="ce20"/>
-     <table:table-cell table:style-name="ce40" table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce37" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce45"/>
+     <table:table-cell table:style-name="ce21"/>
+     <table:table-cell table:style-name="ce45" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce40" office:value-type="string" calcext:value-type="string">
       <text:p>https://www.reichelt.de/de/de/shop/produkt/usb-stick_usb_3_0_64_gb_kombo_usb-c-305352</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:style-name="ce20"/>
      <table:table-cell table:style-name="ce6"/>
-     <table:table-cell table:style-name="ce18" table:number-columns-repeated="1013"/>
+     <table:table-cell table:style-name="ce20" table:number-columns-repeated="1013"/>
      <table:table-cell table:number-columns-repeated="15360"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
      <table:table-cell table:style-name="ce3"/>
-     <table:table-cell table:style-name="ce26"/>
-     <table:table-cell table:style-name="ce20"/>
-     <table:table-cell table:style-name="ce20" office:value-type="float" office:value="8.36" calcext:value-type="float">
+     <table:table-cell table:style-name="ce27"/>
+     <table:table-cell table:style-name="ce21"/>
+     <table:table-cell table:style-name="ce21" office:value-type="float" office:value="8.36" calcext:value-type="float">
       <text:p>8,36</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce40"/>
-     <table:table-cell table:style-name="ce20"/>
-     <table:table-cell table:style-name="ce40" table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce37" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce45"/>
+     <table:table-cell table:style-name="ce21"/>
+     <table:table-cell table:style-name="ce45" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce40" office:value-type="string" calcext:value-type="string">
       <text:p>https://www.reichelt.de/de/de/shop/produkt/usb-stick_usb_3_0_a_typ-c_64gb_ultra_dual_drivego-298215</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:style-name="ce20"/>
      <table:table-cell table:style-name="ce6"/>
-     <table:table-cell table:style-name="ce18" table:number-columns-repeated="1013"/>
+     <table:table-cell table:style-name="ce20" table:number-columns-repeated="1013"/>
      <table:table-cell table:number-columns-repeated="15360"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
      <table:table-cell table:style-name="ce3"/>
-     <table:table-cell table:style-name="ce26"/>
-     <table:table-cell table:style-name="ce20"/>
-     <table:table-cell table:style-name="ce20" office:value-type="float" office:value="10.04" calcext:value-type="float">
+     <table:table-cell table:style-name="ce27"/>
+     <table:table-cell table:style-name="ce21"/>
+     <table:table-cell table:style-name="ce21" office:value-type="float" office:value="10.04" calcext:value-type="float">
       <text:p>10,04</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce40"/>
-     <table:table-cell table:style-name="ce20"/>
-     <table:table-cell table:style-name="ce40" table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce37" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce45"/>
+     <table:table-cell table:style-name="ce21"/>
+     <table:table-cell table:style-name="ce45" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce40" office:value-type="string" calcext:value-type="string">
       <text:p>https://www.reichelt.de/de/de/shop/produkt/usb-stick_usb_3_2_32_gb_usb-c_usb-a-275413</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:style-name="ce20"/>
      <table:table-cell table:style-name="ce6"/>
-     <table:table-cell table:style-name="ce18" table:number-columns-repeated="1013"/>
+     <table:table-cell table:style-name="ce20" table:number-columns-repeated="1013"/>
      <table:table-cell table:number-columns-repeated="15360"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
       <text:p>Soldering Iron</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce27"/>
-     <table:table-cell table:style-name="ce17" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce29"/>
+     <table:table-cell table:style-name="ce18" office:value-type="string" calcext:value-type="string">
       <text:p>Pinecil</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce17" office:value-type="float" office:value="25.99" calcext:value-type="float">
+     <table:table-cell table:style-name="ce18" office:value-type="float" office:value="25.99" calcext:value-type="float">
       <text:p>25,99</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce38"/>
-     <table:table-cell table:style-name="ce41" office:value-type="float" office:value="1" calcext:value-type="float">
+     <table:table-cell table:style-name="ce41"/>
+     <table:table-cell table:style-name="ce46" office:value-type="float" office:value="1" calcext:value-type="float">
       <text:p>1</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce41" table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce46" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce53" office:value-type="string" calcext:value-type="string">
       <text:p>https://pine64.com/product/pinecil-smart-mini-portable-soldering-iron/</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce18"/>
-     <table:table-cell table:style-name="ce52" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce20"/>
+     <table:table-cell table:style-name="ce59" office:value-type="string" calcext:value-type="string">
       <text:p>USB oder Netzkabel?</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce18" table:number-columns-repeated="1013"/>
+     <table:table-cell table:style-name="ce20" table:number-columns-repeated="1013"/>
      <table:table-cell table:number-columns-repeated="15360"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
      <table:table-cell table:style-name="ce5"/>
-     <table:table-cell table:style-name="ce17" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce18" office:value-type="string" calcext:value-type="string">
       <text:p>Cable 1,5m</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce38"/>
-     <table:table-cell table:style-name="ce17" office:value-type="float" office:value="3.99" calcext:value-type="float">
+     <table:table-cell table:style-name="ce41"/>
+     <table:table-cell table:style-name="ce18" office:value-type="float" office:value="3.99" calcext:value-type="float">
       <text:p>3,99</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce38"/>
-     <table:table-cell table:style-name="ce41" table:number-columns-repeated="3"/>
-     <table:table-cell table:style-name="ce47" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce41"/>
+     <table:table-cell table:style-name="ce46" table:number-columns-repeated="3"/>
+     <table:table-cell table:style-name="ce54" office:value-type="string" calcext:value-type="string">
       <text:p>https://pine64.com/product/usb-type-c-to-usb-type-c-silicone-power-charging-cable-1-5-meter-length/</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce18" table:number-columns-repeated="1015"/>
+     <table:table-cell table:style-name="ce20" table:number-columns-repeated="1015"/>
      <table:table-cell table:number-columns-repeated="15360"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
      <table:table-cell table:style-name="ce5"/>
-     <table:table-cell table:style-name="ce27"/>
-     <table:table-cell table:style-name="ce17" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce29"/>
+     <table:table-cell table:style-name="ce18" office:value-type="string" calcext:value-type="string">
       <text:p>KETS02</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce17" office:value-type="float" office:value="121.49" calcext:value-type="float">
+     <table:table-cell table:style-name="ce18" office:value-type="float" office:value="121.49" calcext:value-type="float">
       <text:p>121,49</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce38"/>
-     <table:table-cell table:style-name="ce41" table:number-columns-repeated="3"/>
-     <table:table-cell table:style-name="ce37" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce41"/>
+     <table:table-cell table:style-name="ce46" table:number-columns-repeated="3"/>
+     <table:table-cell table:style-name="ce40" office:value-type="string" calcext:value-type="string">
       <text:p>https://www.ebay.de/itm/296924876592</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce18" table:number-columns-repeated="1015"/>
+     <table:table-cell table:style-name="ce20" table:number-columns-repeated="1015"/>
      <table:table-cell table:number-columns-repeated="15360"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
      <table:table-cell table:style-name="ce5"/>
-     <table:table-cell table:style-name="ce27"/>
-     <table:table-cell table:style-name="ce17" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce29"/>
+     <table:table-cell table:style-name="ce18" office:value-type="string" calcext:value-type="string">
       <text:p>ZD-708</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce17" office:value-type="float" office:value="7.06" calcext:value-type="float">
+     <table:table-cell table:style-name="ce18" office:value-type="float" office:value="7.06" calcext:value-type="float">
       <text:p>7,06</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce38"/>
-     <table:table-cell table:style-name="ce41" table:number-columns-repeated="3"/>
-     <table:table-cell table:style-name="ce37" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce41"/>
+     <table:table-cell table:style-name="ce46" table:number-columns-repeated="3"/>
+     <table:table-cell table:style-name="ce40" office:value-type="string" calcext:value-type="string">
       <text:p>https://www.reichelt.de/de/de/shop/produkt/loetkolben_30_w_temperaturgeregelt-90924</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce18" table:number-columns-repeated="1015"/>
+     <table:table-cell table:style-name="ce20" table:number-columns-repeated="1015"/>
      <table:table-cell table:number-columns-repeated="15360"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
      <table:table-cell table:style-name="ce5"/>
-     <table:table-cell table:style-name="ce27"/>
-     <table:table-cell table:style-name="ce17" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce29"/>
+     <table:table-cell table:style-name="ce18" office:value-type="string" calcext:value-type="string">
       <text:p>LK 50</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce17" office:value-type="float" office:value="19.5" calcext:value-type="float">
+     <table:table-cell table:style-name="ce18" office:value-type="float" office:value="19.5" calcext:value-type="float">
       <text:p>19,5</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce38"/>
-     <table:table-cell table:style-name="ce41" table:number-columns-repeated="3"/>
-     <table:table-cell table:style-name="ce37" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce41"/>
+     <table:table-cell table:style-name="ce46" table:number-columns-repeated="3"/>
+     <table:table-cell table:style-name="ce40" office:value-type="string" calcext:value-type="string">
       <text:p>https://www.segor.de/#Q=LK50%252FTempcontrol&amp;M=1</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce18" table:number-columns-repeated="1015"/>
+     <table:table-cell table:style-name="ce20" table:number-columns-repeated="1015"/>
      <table:table-cell table:number-columns-repeated="15360"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce3" office:value-type="string" calcext:value-type="string">
       <text:p>Multimeter</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce26" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce27" office:value-type="string" calcext:value-type="string">
       <text:p>incl Kabel</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce20"/>
-     <table:table-cell table:style-name="ce20" office:value-type="float" office:value="17.8" calcext:value-type="float">
+     <table:table-cell table:style-name="ce21"/>
+     <table:table-cell table:style-name="ce21" office:value-type="float" office:value="17.8" calcext:value-type="float">
       <text:p>17,8</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce43"/>
-     <table:table-cell table:style-name="ce40" office:value-type="float" office:value="1" calcext:value-type="float">
+     <table:table-cell table:style-name="ce49"/>
+     <table:table-cell table:style-name="ce45" office:value-type="float" office:value="1" calcext:value-type="float">
       <text:p>1</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce40" table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce37" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce45" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce40" office:value-type="string" calcext:value-type="string">
       <text:p>https://www.segor.de/#Q=MS8233B&amp;M=1</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:style-name="ce20"/>
      <table:table-cell table:style-name="ce6"/>
-     <table:table-cell table:style-name="ce18" table:number-columns-repeated="1013"/>
+     <table:table-cell table:style-name="ce20" table:number-columns-repeated="1013"/>
      <table:table-cell table:number-columns-repeated="15360"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
      <table:table-cell table:style-name="ce3"/>
-     <table:table-cell table:style-name="ce26"/>
-     <table:table-cell table:style-name="ce20"/>
-     <table:table-cell table:style-name="ce20" office:value-type="float" office:value="17.98" calcext:value-type="float">
+     <table:table-cell table:style-name="ce27"/>
+     <table:table-cell table:style-name="ce21"/>
+     <table:table-cell table:style-name="ce21" office:value-type="float" office:value="17.98" calcext:value-type="float">
       <text:p>17,98</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce43"/>
-     <table:table-cell table:style-name="ce40" table:number-columns-repeated="3"/>
-     <table:table-cell table:style-name="ce37" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce49"/>
+     <table:table-cell table:style-name="ce45" table:number-columns-repeated="3"/>
+     <table:table-cell table:style-name="ce40" office:value-type="string" calcext:value-type="string">
       <text:p>https://www.reichelt.de/de/de/shop/produkt/truerms_digital-multimeter_2_000_counts_600_v_ncv-297580</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:style-name="ce20"/>
      <table:table-cell table:style-name="ce6"/>
-     <table:table-cell table:style-name="ce18" table:number-columns-repeated="1013"/>
+     <table:table-cell table:style-name="ce20" table:number-columns-repeated="1013"/>
      <table:table-cell table:number-columns-repeated="15360"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
      <table:table-cell table:style-name="ce3"/>
-     <table:table-cell table:style-name="ce26"/>
-     <table:table-cell table:style-name="ce20"/>
-     <table:table-cell table:style-name="ce20" office:value-type="float" office:value="18.49" calcext:value-type="float">
+     <table:table-cell table:style-name="ce27"/>
+     <table:table-cell table:style-name="ce21"/>
+     <table:table-cell table:style-name="ce21" office:value-type="float" office:value="18.49" calcext:value-type="float">
       <text:p>18,49</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce43"/>
-     <table:table-cell table:style-name="ce40" table:number-columns-repeated="3"/>
-     <table:table-cell table:style-name="ce37" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce49"/>
+     <table:table-cell table:style-name="ce45" table:number-columns-repeated="3"/>
+     <table:table-cell table:style-name="ce40" office:value-type="string" calcext:value-type="string">
       <text:p>https://www.reichelt.de/de/de/shop/produkt/thorsman_digital_multimeter_ac_dc_300_v-341793#closemodal</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:style-name="ce20"/>
      <table:table-cell table:style-name="ce6"/>
-     <table:table-cell table:style-name="ce18" table:number-columns-repeated="1013"/>
+     <table:table-cell table:style-name="ce20" table:number-columns-repeated="1013"/>
      <table:table-cell table:number-columns-repeated="15360"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
@@ -1106,8 +1169,8 @@
       <text:p>Solder wire</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce6"/>
-     <table:table-cell table:style-name="ce18"/>
-     <table:table-cell table:style-name="ce18" office:value-type="float" office:value="4.95" calcext:value-type="float">
+     <table:table-cell table:style-name="ce20"/>
+     <table:table-cell table:style-name="ce20" office:value-type="float" office:value="4.95" calcext:value-type="float">
       <text:p>4,95</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Default"/>
@@ -1118,9 +1181,9 @@
      <table:table-cell table:style-name="ce30" office:value-type="string" calcext:value-type="string">
       <text:p>https://www.ifixit.com/de-de/products/lead-free-solder</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:style-name="ce20"/>
      <table:table-cell table:style-name="ce6"/>
-     <table:table-cell table:style-name="ce18" table:number-columns-repeated="1013"/>
+     <table:table-cell table:style-name="ce20" table:number-columns-repeated="1013"/>
      <table:table-cell table:number-columns-repeated="15360"/>
     </table:table-row>
     <table:table-row table:style-name="ro5">
@@ -1130,16 +1193,16 @@
      <table:table-cell table:style-name="ce14" office:value-type="string" calcext:value-type="string">
       <text:p>2x solder remover, solder grease, stand, twin wire</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce18" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce20" table:number-columns-repeated="2"/>
      <table:table-cell table:style-name="Default"/>
      <table:table-cell table:style-name="ce9" office:value-type="float" office:value="1" calcext:value-type="float">
       <text:p>1</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce9" table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce37"/>
-     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:style-name="ce40"/>
+     <table:table-cell table:style-name="ce20"/>
      <table:table-cell table:style-name="ce6"/>
-     <table:table-cell table:style-name="ce18" table:number-columns-repeated="1013"/>
+     <table:table-cell table:style-name="ce20" table:number-columns-repeated="1013"/>
      <table:table-cell table:number-columns-repeated="15360"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
@@ -1147,8 +1210,8 @@
       <text:p>solder remover (box)</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce14"/>
-     <table:table-cell table:style-name="ce18"/>
-     <table:table-cell table:style-name="ce18" office:value-type="float" office:value="9.95" calcext:value-type="float">
+     <table:table-cell table:style-name="ce20"/>
+     <table:table-cell table:style-name="ce20" office:value-type="float" office:value="9.95" calcext:value-type="float">
       <text:p>9,95</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Default"/>
@@ -1156,9 +1219,9 @@
      <table:table-cell table:style-name="ce30" office:value-type="string" calcext:value-type="string">
       <text:p>https://www.ifixit.com/de-de/products/ifixit-soldering-tip-cleaner</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:style-name="ce20"/>
      <table:table-cell table:style-name="ce6"/>
-     <table:table-cell table:style-name="ce18" table:number-columns-repeated="1013"/>
+     <table:table-cell table:style-name="ce20" table:number-columns-repeated="1013"/>
      <table:table-cell table:number-columns-repeated="15360"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
@@ -1166,8 +1229,8 @@
       <text:p>desoldering wick</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce14"/>
-     <table:table-cell table:style-name="ce18"/>
-     <table:table-cell table:style-name="ce18" office:value-type="float" office:value="4.95" calcext:value-type="float">
+     <table:table-cell table:style-name="ce20"/>
+     <table:table-cell table:style-name="ce20" office:value-type="float" office:value="4.95" calcext:value-type="float">
       <text:p>4,95</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Default"/>
@@ -1175,9 +1238,9 @@
      <table:table-cell table:style-name="ce30" office:value-type="string" calcext:value-type="string">
       <text:p>https://www.ifixit.com/de-de/products/ifixit-desoldering-wick</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:style-name="ce20"/>
      <table:table-cell table:style-name="ce6"/>
-     <table:table-cell table:style-name="ce18" table:number-columns-repeated="1013"/>
+     <table:table-cell table:style-name="ce20" table:number-columns-repeated="1013"/>
      <table:table-cell table:number-columns-repeated="15360"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
@@ -1185,8 +1248,8 @@
       <text:p>flux (Flussmittel)</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce14"/>
-     <table:table-cell table:style-name="ce18"/>
-     <table:table-cell table:style-name="ce18" office:value-type="float" office:value="4.95" calcext:value-type="float">
+     <table:table-cell table:style-name="ce20"/>
+     <table:table-cell table:style-name="ce20" office:value-type="float" office:value="4.95" calcext:value-type="float">
       <text:p>4,95</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Default"/>
@@ -1194,9 +1257,9 @@
      <table:table-cell table:style-name="ce30" office:value-type="string" calcext:value-type="string">
       <text:p>https://www.ifixit.com/de-de/products/no-clean-flux</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:style-name="ce20"/>
      <table:table-cell table:style-name="ce6"/>
-     <table:table-cell table:style-name="ce18" table:number-columns-repeated="1013"/>
+     <table:table-cell table:style-name="ce20" table:number-columns-repeated="1013"/>
      <table:table-cell table:number-columns-repeated="15360"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
@@ -1204,22 +1267,22 @@
       <text:p>telescopic magnet tool</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce6"/>
-     <table:table-cell table:style-name="ce18"/>
-     <table:table-cell table:style-name="ce18" office:value-type="float" office:value="5.99" calcext:value-type="float">
+     <table:table-cell table:style-name="ce20"/>
+     <table:table-cell table:style-name="ce20" office:value-type="float" office:value="5.99" calcext:value-type="float">
       <text:p>5,99</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce9"/>
-     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:style-name="ce20"/>
      <table:table-cell table:style-name="ce9" office:value-type="float" office:value="1" calcext:value-type="float">
       <text:p>1</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce9"/>
-     <table:table-cell table:style-name="ce37" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce40" office:value-type="string" calcext:value-type="string">
       <text:p>https://www.hellweg.de/a/basic-teleskoparm-inkl-magnet-16-61-cm-572494</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:style-name="ce20"/>
      <table:table-cell table:style-name="ce6"/>
-     <table:table-cell table:style-name="ce18" table:number-columns-repeated="1013"/>
+     <table:table-cell table:style-name="ce20" table:number-columns-repeated="1013"/>
      <table:table-cell table:number-columns-repeated="15360"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
@@ -1227,12 +1290,12 @@
       <text:p>(neu) Eraser &amp; brush</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce6"/>
-     <table:table-cell table:style-name="ce18"/>
-     <table:table-cell table:style-name="ce18" office:value-type="float" office:value="2.95" calcext:value-type="float">
+     <table:table-cell table:style-name="ce20"/>
+     <table:table-cell table:style-name="ce20" office:value-type="float" office:value="2.95" calcext:value-type="float">
       <text:p>2,95</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce9"/>
-     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:style-name="ce20"/>
      <table:table-cell table:style-name="ce9" office:value-type="float" office:value="1" calcext:value-type="float">
       <text:p>1</text:p>
      </table:table-cell>
@@ -1240,47 +1303,47 @@
      <table:table-cell table:style-name="ce30" office:value-type="string" calcext:value-type="string">
       <text:p>https://www.ifixit.com/de-de/products/detailing-eraser</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:style-name="ce20"/>
      <table:table-cell table:style-name="ce6"/>
-     <table:table-cell table:style-name="ce18" table:number-columns-repeated="1013"/>
+     <table:table-cell table:style-name="ce20" table:number-columns-repeated="1013"/>
      <table:table-cell table:number-columns-repeated="15360"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
       <text:p>(neu) ruler</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce27"/>
-     <table:table-cell table:style-name="ce17"/>
-     <table:table-cell table:style-name="ce17" office:value-type="float" office:value="1.95" calcext:value-type="float">
+     <table:table-cell table:style-name="ce29"/>
+     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:style-name="ce18" office:value-type="float" office:value="1.95" calcext:value-type="float">
       <text:p>1,95</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce41"/>
-     <table:table-cell table:style-name="ce17"/>
-     <table:table-cell table:style-name="ce41" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce46"/>
+     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:style-name="ce46" table:number-columns-repeated="2"/>
      <table:table-cell table:style-name="ce30" office:value-type="string" calcext:value-type="string">
       <text:p>https://www.ifixit.com/de-de/products/ifixit-6-inch-metal-ruler</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:style-name="ce20"/>
      <table:table-cell table:style-name="ce6"/>
-     <table:table-cell table:style-name="ce18" table:number-columns-repeated="1013"/>
+     <table:table-cell table:style-name="ce20" table:number-columns-repeated="1013"/>
      <table:table-cell table:number-columns-repeated="15360"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
      <table:table-cell table:style-name="ce5"/>
-     <table:table-cell table:style-name="ce27"/>
-     <table:table-cell table:style-name="ce17"/>
-     <table:table-cell table:style-name="ce17" office:value-type="float" office:value="12.99" calcext:value-type="float">
+     <table:table-cell table:style-name="ce29"/>
+     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:style-name="ce18" office:value-type="float" office:value="12.99" calcext:value-type="float">
       <text:p>12,99</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce41"/>
-     <table:table-cell table:style-name="ce17"/>
-     <table:table-cell table:style-name="ce41" table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce18" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce46"/>
+     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:style-name="ce46" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce20" office:value-type="string" calcext:value-type="string">
       <text:p>https://www.hellweg.de/a/krone-knopfmass-100-mm-123731</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:style-name="ce20"/>
      <table:table-cell table:style-name="ce6"/>
-     <table:table-cell table:style-name="ce18" table:number-columns-repeated="1013"/>
+     <table:table-cell table:style-name="ce20" table:number-columns-repeated="1013"/>
      <table:table-cell table:number-columns-repeated="15360"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
@@ -1288,19 +1351,19 @@
       <text:p>(neu) magnet mat</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce6"/>
-     <table:table-cell table:style-name="ce18"/>
-     <table:table-cell table:style-name="ce18" office:value-type="float" office:value="16.95" calcext:value-type="float">
+     <table:table-cell table:style-name="ce20"/>
+     <table:table-cell table:style-name="ce20" office:value-type="float" office:value="16.95" calcext:value-type="float">
       <text:p>16,95</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce9"/>
-     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:style-name="ce20"/>
      <table:table-cell table:style-name="ce9" table:number-columns-repeated="2"/>
      <table:table-cell table:style-name="ce30" office:value-type="string" calcext:value-type="string">
       <text:p>https://www.ifixit.com/de-de/products/magnetic-project-mat-b-stock</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:style-name="ce20"/>
      <table:table-cell table:style-name="ce6"/>
-     <table:table-cell table:style-name="ce18" table:number-columns-repeated="1013"/>
+     <table:table-cell table:style-name="ce20" table:number-columns-repeated="1013"/>
      <table:table-cell table:number-columns-repeated="15360"/>
     </table:table-row>
     <table:table-row table:style-name="ro4">
@@ -1308,14 +1371,14 @@
       <text:p>Essential Electronics Toolkit (iFixit)</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce6"/>
-     <table:table-cell table:style-name="ce18" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce20" office:value-type="string" calcext:value-type="string">
       <text:p>B-Ware OK?</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce18" office:value-type="float" office:value="24.95" calcext:value-type="float">
+     <table:table-cell table:style-name="ce20" office:value-type="float" office:value="24.95" calcext:value-type="float">
       <text:p>24,95</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce9"/>
-     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:style-name="ce20"/>
      <table:table-cell table:style-name="ce9" office:value-type="float" office:value="1" calcext:value-type="float">
       <text:p>1</text:p>
      </table:table-cell>
@@ -1323,11 +1386,11 @@
      <table:table-cell table:style-name="ce30" office:value-type="string" calcext:value-type="string">
       <text:p>https://www.ifixit.com/de-de/products/essential-electronics-toolkit-b-stock</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce18"/>
-     <table:table-cell table:style-name="ce52" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce20"/>
+     <table:table-cell table:style-name="ce59" office:value-type="string" calcext:value-type="string">
       <text:p>B-Ware kaufen OK? Ich denke ja (ms)</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce18" table:number-columns-repeated="1013"/>
+     <table:table-cell table:style-name="ce20" table:number-columns-repeated="1013"/>
      <table:table-cell table:number-columns-repeated="15360"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
@@ -1335,94 +1398,94 @@
       <text:p>super glue</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce6"/>
-     <table:table-cell table:style-name="ce18"/>
-     <table:table-cell table:style-name="ce18" office:value-type="float" office:value="1.43" calcext:value-type="float">
+     <table:table-cell table:style-name="ce20"/>
+     <table:table-cell table:style-name="ce20" office:value-type="float" office:value="1.43" calcext:value-type="float">
       <text:p>1,43</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce9"/>
-     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:style-name="ce20"/>
      <table:table-cell table:style-name="ce9" office:value-type="float" office:value="1" calcext:value-type="float">
       <text:p>1</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce9"/>
-     <table:table-cell table:style-name="ce37" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce40" office:value-type="string" calcext:value-type="string">
       <text:p>https://www.reichelt.de/de/de/shop/produkt/sekundenkleber_10g_transp_mit_pinsel-293070</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:style-name="ce20"/>
      <table:table-cell table:style-name="ce6"/>
-     <table:table-cell table:style-name="ce18" table:number-columns-repeated="1013"/>
-     <table:table-cell table:number-columns-repeated="15360"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro3">
-     <table:table-cell table:style-name="ce17" office:value-type="string" calcext:value-type="string">
-      <text:p>adjustable wrench</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce27"/>
-     <table:table-cell table:style-name="ce17"/>
-     <table:table-cell table:style-name="ce17" office:value-type="float" office:value="24.86" calcext:value-type="float">
-      <text:p>24,86</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce41"/>
-     <table:table-cell table:style-name="ce17"/>
-     <table:table-cell table:style-name="ce41"/>
-     <table:table-cell table:style-name="ce41" office:value-type="float" office:value="1" calcext:value-type="float">
-      <text:p>1</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce37" office:value-type="string" calcext:value-type="string">
-      <text:p>https://www.heimwerkertools.com/werkzeug/schraubwerkzeuge/6786/hoegert-verstellschluessel-mit-kurzem-griff-140-mm</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce18"/>
-     <table:table-cell table:style-name="ce6"/>
-     <table:table-cell table:style-name="ce18" table:number-columns-repeated="1013"/>
-     <table:table-cell table:number-columns-repeated="15360"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro3">
-     <table:table-cell table:style-name="ce17"/>
-     <table:table-cell table:style-name="ce27"/>
-     <table:table-cell table:style-name="ce17"/>
-     <table:table-cell table:style-name="ce17" office:value-type="float" office:value="10.99" calcext:value-type="float">
-      <text:p>10,99</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce41"/>
-     <table:table-cell table:style-name="ce17"/>
-     <table:table-cell table:style-name="ce41" table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce37" office:value-type="string" calcext:value-type="string">
-      <text:p>https://www.hellweg.de/a/krone-rollgabelschluessel-150-mm-kst-griff-123386</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce18"/>
-     <table:table-cell table:style-name="ce6"/>
-     <table:table-cell table:style-name="ce18" table:number-columns-repeated="1013"/>
-     <table:table-cell table:number-columns-repeated="15360"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro3">
-     <table:table-cell table:style-name="ce17"/>
-     <table:table-cell table:style-name="ce27"/>
-     <table:table-cell table:style-name="ce17"/>
-     <table:table-cell table:style-name="ce17" office:value-type="float" office:value="5.25" calcext:value-type="float">
-      <text:p>5,25</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce41"/>
-     <table:table-cell table:style-name="ce17"/>
-     <table:table-cell table:style-name="ce41" table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce37" office:value-type="string" calcext:value-type="string">
-      <text:p>https://www.bauhaus.info/rollgabelschluessel/matador-rollgabelschluessel/p/25327890</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce18"/>
-     <table:table-cell table:style-name="ce6"/>
-     <table:table-cell table:style-name="ce18" table:number-columns-repeated="1013"/>
+     <table:table-cell table:style-name="ce20" table:number-columns-repeated="1013"/>
      <table:table-cell table:number-columns-repeated="15360"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
      <table:table-cell table:style-name="ce18" office:value-type="string" calcext:value-type="string">
+      <text:p>adjustable wrench</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce29"/>
+     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:style-name="ce18" office:value-type="float" office:value="24.86" calcext:value-type="float">
+      <text:p>24,86</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46"/>
+     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:style-name="ce46"/>
+     <table:table-cell table:style-name="ce46" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce40" office:value-type="string" calcext:value-type="string">
+      <text:p>https://www.heimwerkertools.com/werkzeug/schraubwerkzeuge/6786/hoegert-verstellschluessel-mit-kurzem-griff-140-mm</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce20"/>
+     <table:table-cell table:style-name="ce6"/>
+     <table:table-cell table:style-name="ce20" table:number-columns-repeated="1013"/>
+     <table:table-cell table:number-columns-repeated="15360"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro3">
+     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:style-name="ce29"/>
+     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:style-name="ce18" office:value-type="float" office:value="10.99" calcext:value-type="float">
+      <text:p>10,99</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46"/>
+     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:style-name="ce46" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce40" office:value-type="string" calcext:value-type="string">
+      <text:p>https://www.hellweg.de/a/krone-rollgabelschluessel-150-mm-kst-griff-123386</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce20"/>
+     <table:table-cell table:style-name="ce6"/>
+     <table:table-cell table:style-name="ce20" table:number-columns-repeated="1013"/>
+     <table:table-cell table:number-columns-repeated="15360"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro3">
+     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:style-name="ce29"/>
+     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:style-name="ce18" office:value-type="float" office:value="5.25" calcext:value-type="float">
+      <text:p>5,25</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46"/>
+     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:style-name="ce46" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce40" office:value-type="string" calcext:value-type="string">
+      <text:p>https://www.bauhaus.info/rollgabelschluessel/matador-rollgabelschluessel/p/25327890</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce20"/>
+     <table:table-cell table:style-name="ce6"/>
+     <table:table-cell table:style-name="ce20" table:number-columns-repeated="1013"/>
+     <table:table-cell table:number-columns-repeated="15360"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro3">
+     <table:table-cell table:style-name="ce20" office:value-type="string" calcext:value-type="string">
       <text:p>cutter</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce6"/>
-     <table:table-cell table:style-name="ce18"/>
-     <table:table-cell table:style-name="ce18" office:value-type="float" office:value="4.95" calcext:value-type="float">
+     <table:table-cell table:style-name="ce20"/>
+     <table:table-cell table:style-name="ce20" office:value-type="float" office:value="4.95" calcext:value-type="float">
       <text:p>4,95</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce9"/>
-     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:style-name="ce20"/>
      <table:table-cell table:style-name="ce9"/>
      <table:table-cell table:style-name="ce9" office:value-type="float" office:value="1" calcext:value-type="float">
       <text:p>1</text:p>
@@ -1430,180 +1493,180 @@
      <table:table-cell table:style-name="ce30" office:value-type="string" calcext:value-type="string">
       <text:p>https://www.ifixit.com/de-de/products/precision-utility-knife</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:style-name="ce20"/>
      <table:table-cell table:style-name="ce6"/>
-     <table:table-cell table:style-name="ce18" table:number-columns-repeated="1013"/>
-     <table:table-cell table:number-columns-repeated="15360"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro3">
-     <table:table-cell table:style-name="ce17" office:value-type="string" calcext:value-type="string">
-      <text:p>set of allen keys</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce27"/>
-     <table:table-cell table:style-name="ce17"/>
-     <table:table-cell table:style-name="ce17" office:value-type="float" office:value="5.97" calcext:value-type="float">
-      <text:p>5,97</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce41"/>
-     <table:table-cell table:style-name="ce17" office:value-type="string" calcext:value-type="string">
-      <text:p><text:s text:c="11"/></text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce41"/>
-     <table:table-cell table:style-name="ce41" office:value-type="float" office:value="1" calcext:value-type="float">
-      <text:p>1</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce37" office:value-type="string" calcext:value-type="string">
-      <text:p>https://www.heimwerkertools.com/werkzeug/schraubwerkzeuge/6944/hoegert-sechskantschluesselsatz-aus-s2-stahl-9-tlg</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce18"/>
-     <table:table-cell table:style-name="ce6"/>
-     <table:table-cell table:style-name="ce18" table:number-columns-repeated="1013"/>
-     <table:table-cell table:number-columns-repeated="15360"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro3">
-     <table:table-cell table:style-name="ce17"/>
-     <table:table-cell table:style-name="ce27"/>
-     <table:table-cell table:style-name="ce17"/>
-     <table:table-cell table:style-name="ce17" office:value-type="float" office:value="24.86" calcext:value-type="float">
-      <text:p>24,86</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce41"/>
-     <table:table-cell table:style-name="ce17"/>
-     <table:table-cell table:style-name="ce41" table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce37" office:value-type="string" calcext:value-type="string">
-      <text:p>https://www.heimwerkertools.com/werkzeug/schraubwerkzeuge/6936/hoegert-sechskantschluesselsatz-farbcodiert-9-tlg</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce18"/>
-     <table:table-cell table:style-name="ce6"/>
-     <table:table-cell table:style-name="ce18" table:number-columns-repeated="1013"/>
-     <table:table-cell table:number-columns-repeated="15360"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro3">
-     <table:table-cell table:style-name="ce20" office:value-type="string" calcext:value-type="string">
-      <text:p>pointed pliers</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce26"/>
-     <table:table-cell table:style-name="ce20"/>
-     <table:table-cell table:style-name="ce20" office:value-type="float" office:value="8.29" calcext:value-type="float">
-      <text:p>8,29</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce40"/>
-     <table:table-cell table:style-name="ce20"/>
-     <table:table-cell table:style-name="ce40"/>
-     <table:table-cell table:style-name="ce40" office:value-type="float" office:value="1" calcext:value-type="float">
-      <text:p>1</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce37" office:value-type="string" calcext:value-type="string">
-      <text:p>https://www.hellweg.de/a/krone-spitzzange-2k-120-mm-103458</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce18"/>
-     <table:table-cell table:style-name="ce6"/>
-     <table:table-cell table:style-name="ce18" table:number-columns-repeated="1013"/>
-     <table:table-cell table:number-columns-repeated="15360"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro3">
-     <table:table-cell table:style-name="ce20"/>
-     <table:table-cell table:style-name="ce26"/>
-     <table:table-cell table:style-name="ce20"/>
-     <table:table-cell table:style-name="ce20" office:value-type="float" office:value="13.95" calcext:value-type="float">
-      <text:p>13,95</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce40"/>
-     <table:table-cell table:style-name="ce20"/>
-     <table:table-cell table:style-name="ce40" table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce37" office:value-type="string" calcext:value-type="string">
-      <text:p>https://www.bauhaus.info/telefonzangen/wisent-flachrundzange/p/20682460</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce18"/>
-     <table:table-cell table:style-name="ce6"/>
-     <table:table-cell table:style-name="ce18" table:number-columns-repeated="1013"/>
-     <table:table-cell table:number-columns-repeated="15360"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro3">
-     <table:table-cell table:style-name="ce20"/>
-     <table:table-cell table:style-name="ce26"/>
-     <table:table-cell table:style-name="ce20"/>
-     <table:table-cell table:style-name="ce20" office:value-type="float" office:value="17.99" calcext:value-type="float">
-      <text:p>17,99</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce40"/>
-     <table:table-cell table:style-name="ce20"/>
-     <table:table-cell table:style-name="ce40" table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce37" office:value-type="string" calcext:value-type="string">
-      <text:p>https://www.reichelt.com/de/en/shop/product/snipe_nose_pliers_with_cutter_140_mm_straight-115789</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce18"/>
-     <table:table-cell table:style-name="ce6"/>
-     <table:table-cell table:style-name="ce18" table:number-columns-repeated="1013"/>
-     <table:table-cell table:number-columns-repeated="15360"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro3">
-     <table:table-cell table:style-name="ce20"/>
-     <table:table-cell table:style-name="ce26"/>
-     <table:table-cell table:style-name="ce20"/>
-     <table:table-cell table:style-name="ce20" office:value-type="float" office:value="4.15" calcext:value-type="float">
-      <text:p>4,15</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce40"/>
-     <table:table-cell table:style-name="ce20"/>
-     <table:table-cell table:style-name="ce40" table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce37" office:value-type="string" calcext:value-type="string">
-      <text:p>https://www.reichelt.com/de/en/shop/product/electronic_long_nose_pliers_130_mm-107280</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce18"/>
-     <table:table-cell table:style-name="ce6"/>
-     <table:table-cell table:style-name="ce18" table:number-columns-repeated="1013"/>
-     <table:table-cell table:number-columns-repeated="15360"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro3">
-     <table:table-cell table:style-name="ce17" office:value-type="string" calcext:value-type="string">
-      <text:p>wire clipper</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce27"/>
-     <table:table-cell table:style-name="ce17"/>
-     <table:table-cell table:style-name="ce17" office:value-type="float" office:value="6.55" calcext:value-type="float">
-      <text:p>6,55</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce41"/>
-     <table:table-cell table:style-name="ce17"/>
-     <table:table-cell table:style-name="ce41"/>
-     <table:table-cell table:style-name="ce41" office:value-type="float" office:value="1" calcext:value-type="float">
-      <text:p>1</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce37" office:value-type="string" calcext:value-type="string">
-      <text:p>https://www.reichelt.de/de/de/shop/produkt/kabelcutter-183848</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce18"/>
-     <table:table-cell table:style-name="ce6"/>
-     <table:table-cell table:style-name="ce18" table:number-columns-repeated="1013"/>
-     <table:table-cell table:number-columns-repeated="15360"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro3">
-     <table:table-cell table:style-name="ce17"/>
-     <table:table-cell table:style-name="ce27"/>
-     <table:table-cell table:style-name="ce17" table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce41"/>
-     <table:table-cell table:style-name="ce17"/>
-     <table:table-cell table:style-name="ce41" table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce37" office:value-type="string" calcext:value-type="string">
-      <text:p>Segor?</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce18"/>
-     <table:table-cell table:style-name="ce6"/>
-     <table:table-cell table:style-name="ce18" table:number-columns-repeated="1013"/>
+     <table:table-cell table:style-name="ce20" table:number-columns-repeated="1013"/>
      <table:table-cell table:number-columns-repeated="15360"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
      <table:table-cell table:style-name="ce18" office:value-type="string" calcext:value-type="string">
+      <text:p>set of allen keys</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce29"/>
+     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:style-name="ce18" office:value-type="float" office:value="5.97" calcext:value-type="float">
+      <text:p>5,97</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46"/>
+     <table:table-cell table:style-name="ce18" office:value-type="string" calcext:value-type="string">
+      <text:p><text:s text:c="11"/></text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46"/>
+     <table:table-cell table:style-name="ce46" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce40" office:value-type="string" calcext:value-type="string">
+      <text:p>https://www.heimwerkertools.com/werkzeug/schraubwerkzeuge/6944/hoegert-sechskantschluesselsatz-aus-s2-stahl-9-tlg</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce20"/>
+     <table:table-cell table:style-name="ce6"/>
+     <table:table-cell table:style-name="ce20" table:number-columns-repeated="1013"/>
+     <table:table-cell table:number-columns-repeated="15360"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro3">
+     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:style-name="ce29"/>
+     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:style-name="ce18" office:value-type="float" office:value="24.86" calcext:value-type="float">
+      <text:p>24,86</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46"/>
+     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:style-name="ce46" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce40" office:value-type="string" calcext:value-type="string">
+      <text:p>https://www.heimwerkertools.com/werkzeug/schraubwerkzeuge/6936/hoegert-sechskantschluesselsatz-farbcodiert-9-tlg</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce20"/>
+     <table:table-cell table:style-name="ce6"/>
+     <table:table-cell table:style-name="ce20" table:number-columns-repeated="1013"/>
+     <table:table-cell table:number-columns-repeated="15360"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro3">
+     <table:table-cell table:style-name="ce21" office:value-type="string" calcext:value-type="string">
+      <text:p>pointed pliers</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce27"/>
+     <table:table-cell table:style-name="ce21"/>
+     <table:table-cell table:style-name="ce21" office:value-type="float" office:value="8.29" calcext:value-type="float">
+      <text:p>8,29</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce45"/>
+     <table:table-cell table:style-name="ce21"/>
+     <table:table-cell table:style-name="ce45"/>
+     <table:table-cell table:style-name="ce45" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce40" office:value-type="string" calcext:value-type="string">
+      <text:p>https://www.hellweg.de/a/krone-spitzzange-2k-120-mm-103458</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce20"/>
+     <table:table-cell table:style-name="ce6"/>
+     <table:table-cell table:style-name="ce20" table:number-columns-repeated="1013"/>
+     <table:table-cell table:number-columns-repeated="15360"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro3">
+     <table:table-cell table:style-name="ce21"/>
+     <table:table-cell table:style-name="ce27"/>
+     <table:table-cell table:style-name="ce21"/>
+     <table:table-cell table:style-name="ce21" office:value-type="float" office:value="13.95" calcext:value-type="float">
+      <text:p>13,95</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce45"/>
+     <table:table-cell table:style-name="ce21"/>
+     <table:table-cell table:style-name="ce45" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce40" office:value-type="string" calcext:value-type="string">
+      <text:p>https://www.bauhaus.info/telefonzangen/wisent-flachrundzange/p/20682460</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce20"/>
+     <table:table-cell table:style-name="ce6"/>
+     <table:table-cell table:style-name="ce20" table:number-columns-repeated="1013"/>
+     <table:table-cell table:number-columns-repeated="15360"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro3">
+     <table:table-cell table:style-name="ce21"/>
+     <table:table-cell table:style-name="ce27"/>
+     <table:table-cell table:style-name="ce21"/>
+     <table:table-cell table:style-name="ce21" office:value-type="float" office:value="17.99" calcext:value-type="float">
+      <text:p>17,99</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce45"/>
+     <table:table-cell table:style-name="ce21"/>
+     <table:table-cell table:style-name="ce45" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce40" office:value-type="string" calcext:value-type="string">
+      <text:p>https://www.reichelt.com/de/en/shop/product/snipe_nose_pliers_with_cutter_140_mm_straight-115789</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce20"/>
+     <table:table-cell table:style-name="ce6"/>
+     <table:table-cell table:style-name="ce20" table:number-columns-repeated="1013"/>
+     <table:table-cell table:number-columns-repeated="15360"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro3">
+     <table:table-cell table:style-name="ce21"/>
+     <table:table-cell table:style-name="ce27"/>
+     <table:table-cell table:style-name="ce21"/>
+     <table:table-cell table:style-name="ce21" office:value-type="float" office:value="4.15" calcext:value-type="float">
+      <text:p>4,15</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce45"/>
+     <table:table-cell table:style-name="ce21"/>
+     <table:table-cell table:style-name="ce45" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce40" office:value-type="string" calcext:value-type="string">
+      <text:p>https://www.reichelt.com/de/en/shop/product/electronic_long_nose_pliers_130_mm-107280</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce20"/>
+     <table:table-cell table:style-name="ce6"/>
+     <table:table-cell table:style-name="ce20" table:number-columns-repeated="1013"/>
+     <table:table-cell table:number-columns-repeated="15360"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro3">
+     <table:table-cell table:style-name="ce18" office:value-type="string" calcext:value-type="string">
+      <text:p>wire clipper</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce29"/>
+     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:style-name="ce18" office:value-type="float" office:value="6.55" calcext:value-type="float">
+      <text:p>6,55</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46"/>
+     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:style-name="ce46"/>
+     <table:table-cell table:style-name="ce46" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce40" office:value-type="string" calcext:value-type="string">
+      <text:p>https://www.reichelt.de/de/de/shop/produkt/kabelcutter-183848</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce20"/>
+     <table:table-cell table:style-name="ce6"/>
+     <table:table-cell table:style-name="ce20" table:number-columns-repeated="1013"/>
+     <table:table-cell table:number-columns-repeated="15360"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro3">
+     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:style-name="ce29"/>
+     <table:table-cell table:style-name="ce18" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce46"/>
+     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:style-name="ce46" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce40" office:value-type="string" calcext:value-type="string">
+      <text:p>Segor?</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce20"/>
+     <table:table-cell table:style-name="ce6"/>
+     <table:table-cell table:style-name="ce20" table:number-columns-repeated="1013"/>
+     <table:table-cell table:number-columns-repeated="15360"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro3">
+     <table:table-cell table:style-name="ce20" office:value-type="string" calcext:value-type="string">
       <text:p>cross head screwdriver</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce6"/>
-     <table:table-cell table:style-name="ce18"/>
-     <table:table-cell table:style-name="ce18" office:value-type="float" office:value="7.31" calcext:value-type="float" table:number-columns-spanned="1" table:number-rows-spanned="2">
+     <table:table-cell table:style-name="ce20"/>
+     <table:table-cell table:style-name="ce20" office:value-type="float" office:value="7.31" calcext:value-type="float" table:number-columns-spanned="1" table:number-rows-spanned="2">
       <text:p>7,31</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce9"/>
-     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:style-name="ce20"/>
      <table:table-cell table:style-name="ce9"/>
      <table:table-cell table:style-name="ce9" office:value-type="float" office:value="1" calcext:value-type="float">
       <text:p>1</text:p>
@@ -1611,254 +1674,254 @@
      <table:table-cell table:style-name="ce31" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="1" table:number-rows-spanned="2">
       <text:p>https://www.heimwerkertools.com/werkzeug/schraubwerkzeuge/6915/hoegert-schraubendreher-satz-zum-arbeiten-unter-spannung-bis-1000v-2-tlg</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:style-name="ce20"/>
      <table:table-cell table:style-name="ce6"/>
-     <table:table-cell table:style-name="ce18" table:number-columns-repeated="1013"/>
+     <table:table-cell table:style-name="ce20" table:number-columns-repeated="1013"/>
      <table:table-cell table:number-columns-repeated="15360"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:style-name="ce18" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce20" office:value-type="string" calcext:value-type="string">
       <text:p>flat head screwdriver</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce6"/>
-     <table:table-cell table:style-name="ce18"/>
-     <table:covered-table-cell table:style-name="ce18"/>
+     <table:table-cell table:style-name="ce20"/>
+     <table:covered-table-cell table:style-name="ce20"/>
      <table:table-cell table:style-name="ce9"/>
-     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:style-name="ce20"/>
      <table:table-cell table:style-name="ce9"/>
      <table:table-cell table:style-name="ce9" office:value-type="float" office:value="1" calcext:value-type="float">
       <text:p>1</text:p>
      </table:table-cell>
-     <table:covered-table-cell table:style-name="ce37"/>
-     <table:table-cell table:style-name="ce18"/>
+     <table:covered-table-cell table:style-name="ce40"/>
+     <table:table-cell table:style-name="ce20"/>
      <table:table-cell table:style-name="ce6"/>
-     <table:table-cell table:style-name="ce18" table:number-columns-repeated="1013"/>
+     <table:table-cell table:style-name="ce20" table:number-columns-repeated="1013"/>
+     <table:table-cell table:number-columns-repeated="15360"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro4">
+     <table:table-cell table:style-name="ce21" office:value-type="string" calcext:value-type="string">
+      <text:p>small flat hat screwdriver </text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce27" office:value-type="string" calcext:value-type="string">
+      <text:p>with power line tester</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce21"/>
+     <table:table-cell table:style-name="ce21" office:value-type="float" office:value="1.02" calcext:value-type="float">
+      <text:p>1,02</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce45"/>
+     <table:table-cell table:style-name="ce21"/>
+     <table:table-cell table:style-name="ce45"/>
+     <table:table-cell table:style-name="ce45" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce40" office:value-type="string" calcext:value-type="string">
+      <text:p>https://www.heimwerkertools.com/werkzeug/schraubwerkzeuge/6913/hoegert-spannungspruefer-100-250v-140-mm-flachklinge-3-mm-mit-leuchtanzeige</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce20"/>
+     <table:table-cell table:style-name="ce6"/>
+     <table:table-cell table:style-name="ce20" table:number-columns-repeated="1013"/>
+     <table:table-cell table:number-columns-repeated="15360"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro3">
+     <table:table-cell table:style-name="ce21"/>
+     <table:table-cell table:style-name="ce27"/>
+     <table:table-cell table:style-name="ce21"/>
+     <table:table-cell table:style-name="ce21" office:value-type="float" office:value="3.59" calcext:value-type="float">
+      <text:p>3,59</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce45"/>
+     <table:table-cell table:style-name="ce21"/>
+     <table:table-cell table:style-name="ce45" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce40" office:value-type="string" calcext:value-type="string">
+      <text:p>https://www.hellweg.de/a/krone-spannungspruefer-vde-100-mm-122986</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce20"/>
+     <table:table-cell table:style-name="ce6"/>
+     <table:table-cell table:style-name="ce20" table:number-columns-repeated="1013"/>
+     <table:table-cell table:number-columns-repeated="15360"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro3">
+     <table:table-cell table:style-name="ce20" office:value-type="string" calcext:value-type="string">
+      <text:p>small piece of sandpaper</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce6"/>
+     <table:table-cell table:style-name="ce20" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce9"/>
+     <table:table-cell table:style-name="ce20"/>
+     <table:table-cell table:style-name="ce9"/>
+     <table:table-cell table:style-name="ce9" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce40"/>
+     <table:table-cell table:style-name="ce20"/>
+     <table:table-cell table:style-name="ce6"/>
+     <table:table-cell table:style-name="ce20" table:number-columns-repeated="1013"/>
+     <table:table-cell table:number-columns-repeated="15360"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro3">
+     <table:table-cell table:style-name="ce20" office:value-type="string" calcext:value-type="string">
+      <text:p>Koffer</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce6"/>
+     <table:table-cell table:style-name="ce20"/>
+     <table:table-cell table:style-name="ce20" office:value-type="float" office:value="51.95" calcext:value-type="float">
+      <text:p>51,95</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce9"/>
+     <table:table-cell table:style-name="ce20"/>
+     <table:table-cell table:style-name="ce9" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce40" office:value-type="string" calcext:value-type="string">
+      <text:p>https://xenotec-shop.de/produkt/max300/</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce20"/>
+     <table:table-cell table:style-name="ce6"/>
+     <table:table-cell table:style-name="ce20" table:number-columns-repeated="1013"/>
+     <table:table-cell table:number-columns-repeated="15360"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro3">
+     <table:table-cell table:style-name="ce20" office:value-type="string" calcext:value-type="string">
+      <text:p>———————</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce6"/>
+     <table:table-cell table:style-name="ce20" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce9"/>
+     <table:table-cell table:style-name="ce20"/>
+     <table:table-cell table:style-name="ce9" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce40"/>
+     <table:table-cell table:style-name="ce20"/>
+     <table:table-cell table:style-name="ce6"/>
+     <table:table-cell table:style-name="ce20" table:number-columns-repeated="1013"/>
      <table:table-cell table:number-columns-repeated="15360"/>
     </table:table-row>
     <table:table-row table:style-name="ro4">
      <table:table-cell table:style-name="ce20" office:value-type="string" calcext:value-type="string">
-      <text:p>small flat hat screwdriver </text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce26" office:value-type="string" calcext:value-type="string">
-      <text:p>with power line tester</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce20"/>
-     <table:table-cell table:style-name="ce20" office:value-type="float" office:value="1.02" calcext:value-type="float">
-      <text:p>1,02</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce40"/>
-     <table:table-cell table:style-name="ce20"/>
-     <table:table-cell table:style-name="ce40"/>
-     <table:table-cell table:style-name="ce40" office:value-type="float" office:value="1" calcext:value-type="float">
-      <text:p>1</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce37" office:value-type="string" calcext:value-type="string">
-      <text:p>https://www.heimwerkertools.com/werkzeug/schraubwerkzeuge/6913/hoegert-spannungspruefer-100-250v-140-mm-flachklinge-3-mm-mit-leuchtanzeige</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce18"/>
-     <table:table-cell table:style-name="ce6"/>
-     <table:table-cell table:style-name="ce18" table:number-columns-repeated="1013"/>
-     <table:table-cell table:number-columns-repeated="15360"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro3">
-     <table:table-cell table:style-name="ce20"/>
-     <table:table-cell table:style-name="ce26"/>
-     <table:table-cell table:style-name="ce20"/>
-     <table:table-cell table:style-name="ce20" office:value-type="float" office:value="3.59" calcext:value-type="float">
-      <text:p>3,59</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce40"/>
-     <table:table-cell table:style-name="ce20"/>
-     <table:table-cell table:style-name="ce40" table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce37" office:value-type="string" calcext:value-type="string">
-      <text:p>https://www.hellweg.de/a/krone-spannungspruefer-vde-100-mm-122986</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce18"/>
-     <table:table-cell table:style-name="ce6"/>
-     <table:table-cell table:style-name="ce18" table:number-columns-repeated="1013"/>
-     <table:table-cell table:number-columns-repeated="15360"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro3">
-     <table:table-cell table:style-name="ce18" office:value-type="string" calcext:value-type="string">
-      <text:p>small piece of sandpaper</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce6"/>
-     <table:table-cell table:style-name="ce18" table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce9"/>
-     <table:table-cell table:style-name="ce18"/>
-     <table:table-cell table:style-name="ce9"/>
-     <table:table-cell table:style-name="ce9" office:value-type="float" office:value="1" calcext:value-type="float">
-      <text:p>1</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce37"/>
-     <table:table-cell table:style-name="ce18"/>
-     <table:table-cell table:style-name="ce6"/>
-     <table:table-cell table:style-name="ce18" table:number-columns-repeated="1013"/>
-     <table:table-cell table:number-columns-repeated="15360"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro3">
-     <table:table-cell table:style-name="ce18" office:value-type="string" calcext:value-type="string">
-      <text:p>Koffer</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce6"/>
-     <table:table-cell table:style-name="ce18"/>
-     <table:table-cell table:style-name="ce18" office:value-type="float" office:value="51.95" calcext:value-type="float">
-      <text:p>51,95</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce9"/>
-     <table:table-cell table:style-name="ce18"/>
-     <table:table-cell table:style-name="ce9" table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce37" office:value-type="string" calcext:value-type="string">
-      <text:p>https://xenotec-shop.de/produkt/max300/</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce18"/>
-     <table:table-cell table:style-name="ce6"/>
-     <table:table-cell table:style-name="ce18" table:number-columns-repeated="1013"/>
-     <table:table-cell table:number-columns-repeated="15360"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro3">
-     <table:table-cell table:style-name="ce18" office:value-type="string" calcext:value-type="string">
-      <text:p>———————</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce6"/>
-     <table:table-cell table:style-name="ce18" table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce9"/>
-     <table:table-cell table:style-name="ce18"/>
-     <table:table-cell table:style-name="ce9" table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce37"/>
-     <table:table-cell table:style-name="ce18"/>
-     <table:table-cell table:style-name="ce6"/>
-     <table:table-cell table:style-name="ce18" table:number-columns-repeated="1013"/>
-     <table:table-cell table:number-columns-repeated="15360"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro4">
-     <table:table-cell table:style-name="ce18" office:value-type="string" calcext:value-type="string">
       <text:p>Werkzeugtasche</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce6" office:value-type="string" calcext:value-type="string">
       <text:p>optional, zum Testen</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce18"/>
-     <table:table-cell table:style-name="ce18" office:value-type="float" office:value="39.95" calcext:value-type="float">
+     <table:table-cell table:style-name="ce20"/>
+     <table:table-cell table:style-name="ce20" office:value-type="float" office:value="39.95" calcext:value-type="float">
       <text:p>39,95</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce9"/>
-     <table:table-cell table:style-name="ce18" table:number-columns-repeated="3"/>
+     <table:table-cell table:style-name="ce20" table:number-columns-repeated="3"/>
      <table:table-cell table:style-name="ce30" office:value-type="string" calcext:value-type="string">
       <text:p>https://www.ifixit.com/de-de/products/ifixit-messenger-bag</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:style-name="ce20"/>
      <table:table-cell table:style-name="ce6"/>
-     <table:table-cell table:style-name="ce18" table:number-columns-repeated="1013"/>
+     <table:table-cell table:style-name="ce20" table:number-columns-repeated="1013"/>
      <table:table-cell table:number-columns-repeated="15360"/>
     </table:table-row>
     <table:table-row table:style-name="ro4">
-     <table:table-cell table:style-name="ce18" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce20" office:value-type="string" calcext:value-type="string">
       <text:p>Polyimid-Klebeband</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce6" office:value-type="string" calcext:value-type="string">
       <text:p>zum Testen, ggf. für Klebemodul</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce18"/>
-     <table:table-cell table:style-name="ce18" office:value-type="float" office:value="9.95" calcext:value-type="float">
+     <table:table-cell table:style-name="ce20"/>
+     <table:table-cell table:style-name="ce20" office:value-type="float" office:value="9.95" calcext:value-type="float">
       <text:p>9,95</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce9"/>
-     <table:table-cell table:style-name="ce18" table:number-columns-repeated="3"/>
+     <table:table-cell table:style-name="ce20" table:number-columns-repeated="3"/>
      <table:table-cell table:style-name="ce30" office:value-type="string" calcext:value-type="string">
       <text:p>https://www.ifixit.com/de-de/products/polyimide-tape</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:style-name="ce20"/>
      <table:table-cell table:style-name="ce6"/>
-     <table:table-cell table:style-name="ce18" table:number-columns-repeated="1013"/>
+     <table:table-cell table:style-name="ce20" table:number-columns-repeated="1013"/>
      <table:table-cell table:number-columns-repeated="15360"/>
     </table:table-row>
     <table:table-row table:style-name="ro4">
-     <table:table-cell table:style-name="ce18" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce20" office:value-type="string" calcext:value-type="string">
       <text:p>Löt-Werkzeugset</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce6" office:value-type="string" calcext:value-type="string">
       <text:p>nur, wenn gesponsort wird</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce18" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce20" table:number-columns-repeated="2"/>
      <table:table-cell table:style-name="ce9"/>
-     <table:table-cell table:style-name="ce18" table:number-columns-repeated="3"/>
+     <table:table-cell table:style-name="ce20" table:number-columns-repeated="3"/>
      <table:table-cell table:style-name="ce30" office:value-type="string" calcext:value-type="string">
       <text:p>https://www.ifixit.com/de-de/products/fixhub-soldering-toolkit</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:style-name="ce20"/>
      <table:table-cell table:style-name="ce6"/>
-     <table:table-cell table:style-name="ce18" table:number-columns-repeated="1013"/>
+     <table:table-cell table:style-name="ce20" table:number-columns-repeated="1013"/>
+     <table:table-cell table:number-columns-repeated="15360"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro3">
+     <table:table-cell table:style-name="ce20" office:value-type="string" calcext:value-type="string">
+      <text:p>Multitool Kreditkartenformat</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce6"/>
+     <table:table-cell table:style-name="ce20"/>
+     <table:table-cell table:style-name="ce20" office:value-type="float" office:value="0.64" calcext:value-type="float">
+      <text:p>0,64</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce9"/>
+     <table:table-cell table:style-name="ce20" table:number-columns-repeated="3"/>
+     <table:table-cell table:style-name="ce40" office:value-type="string" calcext:value-type="string">
+      <text:p>https://www.reichelt.de/de/de/shop/produkt/multitool_11_in_1_kreditkarten-design_edelstahl-348482</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce20"/>
+     <table:table-cell table:style-name="ce6"/>
+     <table:table-cell table:style-name="ce20" table:number-columns-repeated="1013"/>
      <table:table-cell table:number-columns-repeated="15360"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
      <table:table-cell table:style-name="ce18" office:value-type="string" calcext:value-type="string">
-      <text:p>Multitool Kreditkartenformat</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce6"/>
-     <table:table-cell table:style-name="ce18"/>
-     <table:table-cell table:style-name="ce18" office:value-type="float" office:value="0.64" calcext:value-type="float">
-      <text:p>0,64</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce9"/>
-     <table:table-cell table:style-name="ce18" table:number-columns-repeated="3"/>
-     <table:table-cell table:style-name="ce37" office:value-type="string" calcext:value-type="string">
-      <text:p>https://www.reichelt.de/de/de/shop/produkt/multitool_11_in_1_kreditkarten-design_edelstahl-348482</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce18"/>
-     <table:table-cell table:style-name="ce6"/>
-     <table:table-cell table:style-name="ce18" table:number-columns-repeated="1013"/>
-     <table:table-cell table:number-columns-repeated="15360"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro3">
-     <table:table-cell table:style-name="ce17" office:value-type="string" calcext:value-type="string">
       <text:p>Schneidematte</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce27"/>
-     <table:table-cell table:style-name="ce17"/>
-     <table:table-cell table:style-name="ce17" office:value-type="float" office:value="8.91" calcext:value-type="float">
+     <table:table-cell table:style-name="ce29"/>
+     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:style-name="ce18" office:value-type="float" office:value="8.91" calcext:value-type="float">
       <text:p>8,91</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce41"/>
-     <table:table-cell table:style-name="ce17" table:number-columns-repeated="3"/>
-     <table:table-cell table:style-name="ce37" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce46"/>
+     <table:table-cell table:style-name="ce18" table:number-columns-repeated="3"/>
+     <table:table-cell table:style-name="ce40" office:value-type="string" calcext:value-type="string">
       <text:p>https://www.reichelt.de/de/de/shop/produkt/schneidmatte_230_x_320_mm_selbstreparierend-289723</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:style-name="ce20"/>
      <table:table-cell table:style-name="ce6"/>
-     <table:table-cell table:style-name="ce18" table:number-columns-repeated="1013"/>
+     <table:table-cell table:style-name="ce20" table:number-columns-repeated="1013"/>
      <table:table-cell table:number-columns-repeated="15360"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:style-name="ce17"/>
-     <table:table-cell table:style-name="ce27"/>
-     <table:table-cell table:style-name="ce17"/>
-     <table:table-cell table:style-name="ce17" office:value-type="float" office:value="4.71" calcext:value-type="float">
+     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:style-name="ce29"/>
+     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:style-name="ce18" office:value-type="float" office:value="4.71" calcext:value-type="float">
       <text:p>4,71</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce41"/>
-     <table:table-cell table:style-name="ce17" table:number-columns-repeated="3"/>
-     <table:table-cell table:style-name="ce37" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce46"/>
+     <table:table-cell table:style-name="ce18" table:number-columns-repeated="3"/>
+     <table:table-cell table:style-name="ce40" office:value-type="string" calcext:value-type="string">
       <text:p>https://www.reichelt.de/de/de/shop/produkt/schneidematte_a4_300_x_220_x_3_mm-380424</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:style-name="ce20"/>
      <table:table-cell table:style-name="ce6"/>
-     <table:table-cell table:style-name="ce18" table:number-columns-repeated="1013"/>
+     <table:table-cell table:style-name="ce20" table:number-columns-repeated="1013"/>
      <table:table-cell table:number-columns-repeated="15360"/>
     </table:table-row>
     <table:table-row table:style-name="ro3" table:number-rows-repeated="30">
-     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:style-name="ce20"/>
      <table:table-cell table:style-name="ce6"/>
-     <table:table-cell table:style-name="ce18" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce20" table:number-columns-repeated="2"/>
      <table:table-cell table:style-name="ce9"/>
-     <table:table-cell table:style-name="ce18" table:number-columns-repeated="3"/>
-     <table:table-cell table:style-name="ce37"/>
-     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:style-name="ce20" table:number-columns-repeated="3"/>
+     <table:table-cell table:style-name="ce40"/>
+     <table:table-cell table:style-name="ce20"/>
      <table:table-cell table:style-name="ce6"/>
-     <table:table-cell table:style-name="ce18" table:number-columns-repeated="1013"/>
+     <table:table-cell table:style-name="ce20" table:number-columns-repeated="1013"/>
      <table:table-cell table:number-columns-repeated="15360"/>
     </table:table-row>
-    <table:table-row table:style-name="ro6" table:number-rows-repeated="1048480">
+    <table:table-row table:style-name="ro6" table:number-rows-repeated="1048478">
      <table:table-cell table:number-columns-repeated="16384"/>
     </table:table-row>
     <table:table-row table:style-name="ro6">
